@@ -44,9 +44,9 @@ def unlock_pdfs_by_folder(root_folder, password_map):
                     full_path = os.path.join(dirpath, filename)
                     unlock_pdf(full_path, password)
 
-if __name__ == "__main__":
-    csv_path = "C:/Users/Aravind/Bluetooth/bank_statement_anomalies/passwords.csv"
-    root_directory = "C:/Users/Aravind/Bluetooth/bank_statement_anomalies/data/data"
 
-    password_map = load_password_map(csv_path)
-    unlock_pdfs_by_folder(root_directory, password_map)
+csv_path = "C:/Users/Aravind/Bluetooth/bank_statement_anomalies/passwords.csv"
+root_directory = "C:/Users/Aravind/Bluetooth/bank_statement_anomalies/data/data"
+
+password_map = load_password_map(csv_path)
+unlock_pdfs_by_folder(root_directory, password_map)
