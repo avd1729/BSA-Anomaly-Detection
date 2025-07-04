@@ -1,100 +1,226 @@
 {
   "Account Number": {
-    "avg_position": {
-      "x": 501.0,
-      "y": 310.1465759277344,
-      "width": 95.975830078125,
-      "height": 12.0
+    "position_range": {
+      "x": [
+        486.0,
+        516.0
+      ],
+      "y": [
+        295.1465759277344,
+        325.1465759277344
+      ],
+      "width": [
+        90.975830078125,
+        100.975830078125
+      ],
+      "height": [
+        9.0,
+        15.0
+      ]
     },
-    "font_size": 12.0,
+    "font_size_range": [
+      11.5,
+      12.5
+    ],
     "fonts": [
-      "ArialMT"
+      "arial"
     ],
     "bold": false,
-    "italic": false
+    "italic": false,
+    "pages": [
+      0
+    ]
   },
   "Cust Id": {
-    "avg_position": {
-      "x": 500.0,
-      "y": 333.1465759277344,
-      "width": 44.62786865234375,
-      "height": 12.0
+    "position_range": {
+      "x": [
+        485.0,
+        515.0
+      ],
+      "y": [
+        318.1465759277344,
+        348.1465759277344
+      ],
+      "width": [
+        39.62786865234375,
+        49.62786865234375
+      ],
+      "height": [
+        9.0,
+        15.0
+      ]
     },
-    "font_size": 12.0,
+    "font_size_range": [
+      11.5,
+      12.5
+    ],
     "fonts": [
-      "ArialMT"
+      "arial"
     ],
     "bold": false,
-    "italic": false
+    "italic": false,
+    "pages": [
+      0
+    ]
   },
   "Branch Id": {
-    "avg_position": {
-      "x": 500.0,
-      "y": 356.1465759277344,
-      "width": 57.971923828125,
-      "height": 12.0
+    "position_range": {
+      "x": [
+        485.0,
+        515.0
+      ],
+      "y": [
+        341.1465759277344,
+        371.1465759277344
+      ],
+      "width": [
+        52.971923828125,
+        62.971923828125
+      ],
+      "height": [
+        9.0,
+        15.0
+      ]
     },
-    "font_size": 12.0,
+    "font_size_range": [
+      11.5,
+      12.5
+    ],
     "fonts": [
-      "ArialMT"
+      "arial"
     ],
     "bold": false,
-    "italic": false
+    "italic": false,
+    "pages": [
+      0
+    ]
   },
   "Branch Name": {
-    "avg_position": {
-      "x": 500.0,
-      "y": 380.1465759277344,
-      "width": 79.97991943359375,
-      "height": 12.0
+    "position_range": {
+      "x": [
+        485.0,
+        515.0
+      ],
+      "y": [
+        365.1465759277344,
+        395.1465759277344
+      ],
+      "width": [
+        74.97991943359375,
+        84.97991943359375
+      ],
+      "height": [
+        9.0,
+        15.0
+      ]
     },
-    "font_size": 12.0,
+    "font_size_range": [
+      11.5,
+      12.5
+    ],
     "fonts": [
-      "ArialMT"
+      "arial"
     ],
     "bold": false,
-    "italic": false
+    "italic": false,
+    "pages": [
+      0
+    ]
   },
   "Branch Address": {
-    "avg_position": {
-      "x": 501.0,
-      "y": 404.1465759277344,
-      "width": 91.9798583984375,
-      "height": 12.0
+    "position_range": {
+      "x": [
+        486.0,
+        516.0
+      ],
+      "y": [
+        389.1465759277344,
+        419.1465759277344
+      ],
+      "width": [
+        86.9798583984375,
+        96.9798583984375
+      ],
+      "height": [
+        9.0,
+        15.0
+      ]
     },
-    "font_size": 12.0,
+    "font_size_range": [
+      11.5,
+      12.5
+    ],
     "fonts": [
-      "ArialMT"
+      "arial"
     ],
     "bold": false,
-    "italic": false
+    "italic": false,
+    "pages": [
+      0
+    ]
   },
   "Email": {
-    "avg_position": {
-      "x": 500.0,
-      "y": 482.1465759277344,
-      "width": 36.63592529296875,
-      "height": 12.0
+    "position_range": {
+      "x": [
+        485.0,
+        515.0
+      ],
+      "y": [
+        467.1465759277344,
+        497.1465759277344
+      ],
+      "width": [
+        31.63592529296875,
+        41.63592529296875
+      ],
+      "height": [
+        9.0,
+        15.0
+      ]
     },
-    "font_size": 12.0,
+    "font_size_range": [
+      11.5,
+      12.5
+    ],
     "fonts": [
-      "ArialMT"
+      "arial"
     ],
     "bold": false,
-    "italic": false
+    "italic": false,
+    "pages": [
+      0
+    ]
   },
   "IFSC": {
-    "avg_position": {
-      "x": 500.0,
-      "y": 508.1465759277344,
-      "width": 33.94793701171875,
-      "height": 12.000030517578125
+    "position_range": {
+      "x": [
+        485.0,
+        515.0
+      ],
+      "y": [
+        493.1465759277344,
+        523.1465759277344
+      ],
+      "width": [
+        28.94793701171875,
+        38.94793701171875
+      ],
+      "height": [
+        9.000030517578125,
+        15.000030517578125
+      ]
     },
-    "font_size": 12.0,
+    "font_size_range": [
+      11.5,
+      12.5
+    ],
     "fonts": [
-      "ArialMT"
+      "arial"
     ],
     "bold": false,
-    "italic": false
+    "italic": false,
+    "pages": [
+      0
+    ]
   }
 }

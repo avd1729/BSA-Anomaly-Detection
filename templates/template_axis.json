@@ -1,171 +1,396 @@
 {
   "Joint Holder": {
-    "avg_position": {
-      "x": 38.0,
-      "y": 90.52300262451172,
-      "width": 57.74400329589844,
-      "height": 12.005996704101562
+    "position_range": {
+      "x": [
+        23.0,
+        53.0
+      ],
+      "y": [
+        75.52300262451172,
+        105.52300262451172
+      ],
+      "width": [
+        52.74400329589844,
+        62.74400329589844
+      ],
+      "height": [
+        9.005996704101562,
+        15.005996704101562
+      ]
     },
-    "font_size": 9.0,
+    "font_size_range": [
+      8.5,
+      9.5
+    ],
     "fonts": [
-      "Times-Roman"
+      "timesroman"
     ],
     "bold": false,
-    "italic": false
+    "italic": false,
+    "pages": [
+      0
+    ]
   },
   "Customer ID": {
-    "avg_position": {
-      "x": 465.0,
-      "y": 142.5229949951172,
-      "width": 91.998046875,
-      "height": 12.006011962890625
+    "position_range": {
+      "x": [
+        450.0,
+        480.0
+      ],
+      "y": [
+        127.52299499511719,
+        157.5229949951172
+      ],
+      "width": [
+        86.998046875,
+        96.998046875
+      ],
+      "height": [
+        9.006011962890625,
+        15.006011962890625
+      ]
     },
-    "font_size": 9.0,
+    "font_size_range": [
+      8.5,
+      9.5
+    ],
     "fonts": [
-      "Times-Roman"
+      "timesroman"
     ],
     "bold": false,
-    "italic": false
+    "italic": false,
+    "pages": [
+      0
+    ]
   },
   "IFSC Code": {
-    "avg_position": {
-      "x": 459.489990234375,
-      "y": 155.5229949951172,
-      "width": 97.5059814453125,
-      "height": 12.006011962890625
+    "position_range": {
+      "x": [
+        444.489990234375,
+        474.489990234375
+      ],
+      "y": [
+        140.5229949951172,
+        170.5229949951172
+      ],
+      "width": [
+        92.5059814453125,
+        102.5059814453125
+      ],
+      "height": [
+        9.006011962890625,
+        15.006011962890625
+      ]
     },
-    "font_size": 9.0,
+    "font_size_range": [
+      8.5,
+      9.5
+    ],
     "fonts": [
-      "Times-Roman"
+      "timesroman"
     ],
     "bold": false,
-    "italic": false
+    "italic": false,
+    "pages": [
+      0
+    ]
   },
   "MICR Code": {
-    "avg_position": {
-      "x": 467.489990234375,
-      "y": 168.5229949951172,
-      "width": 89.5050048828125,
-      "height": 12.006011962890625
+    "position_range": {
+      "x": [
+        452.489990234375,
+        482.489990234375
+      ],
+      "y": [
+        153.5229949951172,
+        183.5229949951172
+      ],
+      "width": [
+        84.5050048828125,
+        94.5050048828125
+      ],
+      "height": [
+        9.006011962890625,
+        15.006011962890625
+      ]
     },
-    "font_size": 9.0,
+    "font_size_range": [
+      8.5,
+      9.5
+    ],
     "fonts": [
-      "Times-Roman"
+      "timesroman"
     ],
     "bold": false,
-    "italic": false
+    "italic": false,
+    "pages": [
+      0
+    ]
   },
   "Nominee Registered": {
-    "avg_position": {
-      "x": 469.760009765625,
-      "y": 181.5229949951172,
-      "width": 87.2369384765625,
-      "height": 12.006011962890625
+    "position_range": {
+      "x": [
+        454.760009765625,
+        484.760009765625
+      ],
+      "y": [
+        166.5229949951172,
+        196.5229949951172
+      ],
+      "width": [
+        82.2369384765625,
+        92.2369384765625
+      ],
+      "height": [
+        9.006011962890625,
+        15.006011962890625
+      ]
     },
-    "font_size": 9.0,
+    "font_size_range": [
+      8.5,
+      9.5
+    ],
     "fonts": [
-      "Times-Roman"
+      "timesroman"
     ],
     "bold": false,
-    "italic": false
+    "italic": false,
+    "pages": [
+      0
+    ]
   },
   "Registered Mobile No": {
-    "avg_position": {
-      "x": 38.0,
-      "y": 194.5229949951172,
-      "width": 141.7320098876953,
-      "height": 12.006011962890625
+    "position_range": {
+      "x": [
+        23.0,
+        53.0
+      ],
+      "y": [
+        179.5229949951172,
+        209.5229949951172
+      ],
+      "width": [
+        136.7320098876953,
+        146.7320098876953
+      ],
+      "height": [
+        9.006011962890625,
+        15.006011962890625
+      ]
     },
-    "font_size": 9.0,
+    "font_size_range": [
+      8.5,
+      9.5
+    ],
     "fonts": [
-      "Times-Roman"
+      "timesroman"
     ],
     "bold": false,
-    "italic": false
+    "italic": false,
+    "pages": [
+      0
+    ]
   },
   "Registered Email ID": {
-    "avg_position": {
-      "x": 38.0,
-      "y": 207.5229949951172,
-      "width": 190.51202392578125,
-      "height": 12.006011962890625
+    "position_range": {
+      "x": [
+        23.0,
+        53.0
+      ],
+      "y": [
+        192.5229949951172,
+        222.5229949951172
+      ],
+      "width": [
+        185.51202392578125,
+        195.51202392578125
+      ],
+      "height": [
+        9.006011962890625,
+        15.006011962890625
+      ]
     },
-    "font_size": 9.0,
+    "font_size_range": [
+      8.5,
+      9.5
+    ],
     "fonts": [
-      "Times-Roman"
+      "timesroman"
     ],
     "bold": false,
-    "italic": false
+    "italic": false,
+    "pages": [
+      0
+    ]
   },
   "PAN": {
-    "avg_position": {
-      "x": 306.9399948120117,
-      "y": 360.0230026245117,
-      "width": 124.50603485107422,
-      "height": 12.005996704101562
+    "position_range": {
+      "x": [
+        117.13999938964844,
+        147.13999938964844
+      ],
+      "y": [
+        192.5229949951172,
+        222.5229949951172
+      ],
+      "width": [
+        168.75401306152344,
+        178.75401306152344
+      ],
+      "height": [
+        9.006004333496094,
+        15.006004333496094
+      ]
     },
-    "font_size": 9.0,
+    "font_size_range": [
+      8.5,
+      9.5
+    ],
     "fonts": [
-      "Times-Roman"
+      "timesroman"
     ],
     "bold": false,
-    "italic": false
+    "italic": false,
+    "pages": [
+      0,
+      4,
+      10
+    ]
   },
   "Scheme": {
-    "avg_position": {
-      "x": 38.0,
-      "y": 220.5229949951172,
-      "width": 177.75,
-      "height": 12.006011962890625
+    "position_range": {
+      "x": [
+        23.0,
+        53.0
+      ],
+      "y": [
+        205.5229949951172,
+        235.5229949951172
+      ],
+      "width": [
+        172.75,
+        182.75
+      ],
+      "height": [
+        9.006011962890625,
+        15.006011962890625
+      ]
     },
-    "font_size": 9.0,
+    "font_size_range": [
+      8.5,
+      9.5
+    ],
     "fonts": [
-      "Times-Roman"
+      "timesroman"
     ],
     "bold": false,
-    "italic": false
+    "italic": false,
+    "pages": [
+      0
+    ]
   },
   "CKYC Number": {
-    "avg_position": {
-      "x": 403.510009765625,
-      "y": 220.5229949951172,
-      "width": 153.48577880859375,
-      "height": 12.006011962890625
+    "position_range": {
+      "x": [
+        388.510009765625,
+        418.510009765625
+      ],
+      "y": [
+        205.5229949951172,
+        235.5229949951172
+      ],
+      "width": [
+        148.48577880859375,
+        158.48577880859375
+      ],
+      "height": [
+        9.006011962890625,
+        15.006011962890625
+      ]
     },
-    "font_size": 9.0,
+    "font_size_range": [
+      8.5,
+      9.5
+    ],
     "fonts": [
-      "Times-Roman"
+      "timesroman"
     ],
     "bold": false,
-    "italic": false
+    "italic": false,
+    "pages": [
+      0
+    ]
   },
   "State": {
-    "avg_position": {
-      "x": 126.50749937693278,
-      "y": 439.1510896682739,
-      "width": 163.59206104278564,
-      "height": 12.15965493520101
+    "position_range": {
+      "x": [
+        117.13999938964844,
+        147.13999938964844
+      ],
+      "y": [
+        394.52301025390625,
+        424.52301025390625
+      ],
+      "width": [
+        121.23399353027344,
+        131.23399353027344
+      ],
+      "height": [
+        9.0059814453125,
+        15.0059814453125
+      ]
     },
-    "font_size": 9.08,
+    "font_size_range": [
+      8.5,
+      9.5
+    ],
     "fonts": [
-      "Times-Bold",
-      "Times-Roman"
+      "timesroman",
+      "timesbold"
     ],
     "bold": true,
-    "italic": false
+    "italic": false,
+    "pages": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      10
+    ]
   },
   "Address": {
-    "avg_position": {
-      "x": 38.0,
-      "y": 311.52301025390625,
-      "width": 512.2167358398438,
-      "height": 12.0059814453125
+    "position_range": {
+      "x": [
+        23.0,
+        53.0
+      ],
+      "y": [
+        296.52301025390625,
+        326.52301025390625
+      ],
+      "width": [
+        507.21673583984375,
+        517.2167358398438
+      ],
+      "height": [
+        9.0059814453125,
+        15.0059814453125
+      ]
     },
-    "font_size": 9.0,
+    "font_size_range": [
+      8.5,
+      9.5
+    ],
     "fonts": [
-      "Times-Roman"
+      "timesroman"
     ],
     "bold": false,
-    "italic": false
+    "italic": false,
+    "pages": [
+      10
+    ]
   }
 }

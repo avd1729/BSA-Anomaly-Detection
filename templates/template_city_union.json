@@ -1,87 +1,228 @@
 {
   "BRANCH": {
-    "avg_position": {
-      "x": 251.0500030517578,
-      "y": 738.4810028076172,
-      "width": 545.3995208740234,
-      "height": 22.592010498046875
+    "position_range": {
+      "x": [
+        236.0500030517578,
+        266.0500030517578
+      ],
+      "y": [
+        723.4810028076172,
+        753.4810028076172
+      ],
+      "width": [
+        540.3995208740234,
+        550.3995208740234
+      ],
+      "height": [
+        19.592010498046875,
+        25.592010498046875
+      ]
     },
-    "font_size": 17.0,
+    "font_size_range": [
+      16.5,
+      17.5
+    ],
     "fonts": [
-      "Courier",
-      "Courier-Bold"
+      "courierbold",
+      "courier"
     ],
     "bold": true,
-    "italic": false
+    "italic": false,
+    "pages": [
+      0,
+      2
+    ]
   },
   "ACCOUNT NO": {
-    "avg_position": {
-      "x": 20.0,
-      "y": 249.37399291992188,
-      "width": 523.7997131347656,
-      "height": 25.20001220703125
+    "position_range": {
+      "x": [
+        5.0,
+        35.0
+      ],
+      "y": [
+        234.37399291992188,
+        264.3739929199219
+      ],
+      "width": [
+        518.7997131347656,
+        528.7997131347656
+      ],
+      "height": [
+        22.20001220703125,
+        28.20001220703125
+      ]
     },
-    "font_size": 18.0,
+    "font_size_range": [
+      17.5,
+      18.5
+    ],
     "fonts": [
-      "Courier-Bold"
+      "courierbold"
     ],
     "bold": true,
-    "italic": false
+    "italic": false,
+    "pages": [
+      0
+    ]
+  },
+  "ACCOUNT NO(15 DIGIT)": {
+    "position_range": {
+      "x": [
+        5.0,
+        35.0
+      ],
+      "y": [
+        247.87399291992188,
+        277.8739929199219
+      ],
+      "width": [
+        502.5997314453125,
+        512.5997314453125
+      ],
+      "height": [
+        22.20001220703125,
+        28.20001220703125
+      ]
+    },
+    "font_size_range": [
+      17.5,
+      18.5
+    ],
+    "fonts": [
+      "courierbold"
+    ],
+    "bold": true,
+    "italic": false,
+    "pages": [
+      0
+    ]
   },
   "IFSC": {
-    "avg_position": {
-      "x": 20.0,
-      "y": 289.8739929199219,
-      "width": 464.3997802734375,
-      "height": 25.20001220703125
+    "position_range": {
+      "x": [
+        5.0,
+        35.0
+      ],
+      "y": [
+        274.8739929199219,
+        304.8739929199219
+      ],
+      "width": [
+        459.3997802734375,
+        469.3997802734375
+      ],
+      "height": [
+        22.20001220703125,
+        28.20001220703125
+      ]
     },
-    "font_size": 18.0,
+    "font_size_range": [
+      17.5,
+      18.5
+    ],
     "fonts": [
-      "Courier-Bold"
+      "courierbold"
     ],
     "bold": true,
-    "italic": false
+    "italic": false,
+    "pages": [
+      0
+    ]
   },
   "ACCOUNT TYPE": {
-    "avg_position": {
-      "x": 20.0,
-      "y": 316.8739929199219,
-      "width": 345.59991455078125,
-      "height": 25.20001220703125
+    "position_range": {
+      "x": [
+        5.0,
+        35.0
+      ],
+      "y": [
+        301.8739929199219,
+        331.8739929199219
+      ],
+      "width": [
+        340.59991455078125,
+        350.59991455078125
+      ],
+      "height": [
+        22.20001220703125,
+        28.20001220703125
+      ]
     },
-    "font_size": 18.0,
+    "font_size_range": [
+      17.5,
+      18.5
+    ],
     "fonts": [
-      "Courier-Bold"
+      "courierbold"
     ],
     "bold": true,
-    "italic": false
+    "italic": false,
+    "pages": [
+      0
+    ]
   },
   "CUSTOMER DETAILS": {
-    "avg_position": {
-      "x": 20.0,
-      "y": 343.8739929199219,
-      "width": 485.999755859375,
-      "height": 25.20001220703125
+    "position_range": {
+      "x": [
+        5.0,
+        35.0
+      ],
+      "y": [
+        328.8739929199219,
+        358.8739929199219
+      ],
+      "width": [
+        480.999755859375,
+        490.999755859375
+      ],
+      "height": [
+        22.20001220703125,
+        28.20001220703125
+      ]
     },
-    "font_size": 18.0,
+    "font_size_range": [
+      17.5,
+      18.5
+    ],
     "fonts": [
-      "Courier-Bold"
+      "courierbold"
     ],
     "bold": true,
-    "italic": false
+    "italic": false,
+    "pages": [
+      0
+    ]
   },
   "Statement Date": {
-    "avg_position": {
-      "x": 20.0,
-      "y": 505.8739929199219,
-      "width": 615.599609375,
-      "height": 25.199981689453125
+    "position_range": {
+      "x": [
+        5.0,
+        35.0
+      ],
+      "y": [
+        490.8739929199219,
+        520.8739929199219
+      ],
+      "width": [
+        610.599609375,
+        620.599609375
+      ],
+      "height": [
+        22.199981689453125,
+        28.199981689453125
+      ]
     },
-    "font_size": 18.0,
+    "font_size_range": [
+      17.5,
+      18.5
+    ],
     "fonts": [
-      "Courier-Bold"
+      "courierbold"
     ],
     "bold": true,
-    "italic": false
+    "italic": false,
+    "pages": [
+      0
+    ]
   }
 }

@@ -1,200 +1,473 @@
 {
   "Drawing Power": {
-    "avg_position": {
-      "x": 31.82608695652174,
-      "y": 229.26978799571162,
-      "width": 96.2844649605129,
-      "height": 12.724430250084918
+    "position_range": {
+      "x": [
+        21.0,
+        51.0
+      ],
+      "y": [
+        200.3249969482422,
+        230.3249969482422
+      ],
+      "width": [
+        62.790000915527344,
+        72.79000091552734
+      ],
+      "height": [
+        9.365997314453125,
+        15.365997314453125
+      ]
     },
-    "font_size": 9.26,
+    "font_size_range": [
+      8.5,
+      9.5
+    ],
     "fonts": [
-      "Helvetica"
+      "helvetica"
     ],
     "bold": false,
-    "italic": false
+    "italic": false,
+    "pages": [
+      0
+    ]
   },
   "IFS Code": {
-    "avg_position": {
-      "x": 64.17906858862901,
-      "y": 309.7920785299162,
-      "width": 80.94027598311261,
-      "height": 13.174242159215416
+    "position_range": {
+      "x": [
+        21.0,
+        51.0
+      ],
+      "y": [
+        267.82501220703125,
+        297.82501220703125
+      ],
+      "width": [
+        39.50499725341797,
+        49.50499725341797
+      ],
+      "height": [
+        9.365997314453125,
+        15.365997314453125
+      ]
     },
-    "font_size": 9.59,
+    "font_size_range": [
+      8.5,
+      9.5
+    ],
     "fonts": [
-      "Helvetica-Bold",
-      "Helvetica"
+      "helvetica",
+      "helveticabold"
     ],
     "bold": true,
-    "italic": false
+    "italic": false,
+    "pages": [
+      0,
+      2,
+      3,
+      4,
+      6
+    ]
   },
   "Account Description": {
-    "avg_position": {
-      "x": 31.82608695652174,
-      "y": 193.66109234353772,
-      "width": 170.33086627462635,
-      "height": 12.724434230638588
+    "position_range": {
+      "x": [
+        21.0,
+        51.0
+      ],
+      "y": [
+        173.3249969482422,
+        203.3249969482422
+      ],
+      "width": [
+        83.91999053955078,
+        93.91999053955078
+      ],
+      "height": [
+        9.365997314453125,
+        15.365997314453125
+      ]
     },
-    "font_size": 9.26,
+    "font_size_range": [
+      8.5,
+      9.5
+    ],
     "fonts": [
-      "Helvetica"
+      "helvetica"
     ],
     "bold": false,
-    "italic": false
+    "italic": false,
+    "pages": [
+      0
+    ]
   },
   "Account Name": {
-    "avg_position": {
-      "x": 68.46122921214385,
-      "y": 89.40529677447151,
-      "width": 80.93911025103401,
-      "height": 12.608474282657399
+    "position_range": {
+      "x": [
+        21.0,
+        51.0
+      ],
+      "y": [
+        78.82499694824219,
+        108.82499694824219
+      ],
+      "width": [
+        60.579994201660156,
+        70.57999420166016
+      ],
+      "height": [
+        9.366004943847656,
+        15.366004943847656
+      ]
     },
-    "font_size": 9.18,
+    "font_size_range": [
+      8.5,
+      9.5
+    ],
     "fonts": [
-      "Helvetica"
+      "helvetica"
     ],
     "bold": false,
-    "italic": false
+    "italic": false,
+    "pages": [
+      0
+    ]
   },
   "Branch": {
-    "avg_position": {
-      "x": 65.21030402906013,
-      "y": 280.27334039861506,
-      "width": 97.54167290889856,
-      "height": 12.65744989568537
+    "position_range": {
+      "x": [
+        21.0,
+        51.0
+      ],
+      "y": [
+        186.8249969482422,
+        216.8249969482422
+      ],
+      "width": [
+        91.01203918457031,
+        101.01203918457031
+      ],
+      "height": [
+        9.365997314453125,
+        15.365997314453125
+      ]
     },
-    "font_size": 9.21,
+    "font_size_range": [
+      8.5,
+      9.5
+    ],
     "fonts": [
-      "Helvetica"
+      "helvetica"
     ],
     "bold": false,
-    "italic": false
+    "italic": false,
+    "pages": [
+      0,
+      2,
+      4,
+      5,
+      7
+    ]
   },
   "Account Number": {
-    "avg_position": {
-      "x": 31.82608695652174,
-      "y": 175.85674451745075,
-      "width": 132.3859233026919,
-      "height": 12.724434230638588
+    "position_range": {
+      "x": [
+        21.0,
+        51.0
+      ],
+      "y": [
+        159.8249969482422,
+        189.8249969482422
+      ],
+      "width": [
+        69.4699935913086,
+        79.4699935913086
+      ],
+      "height": [
+        9.365997314453125,
+        15.365997314453125
+      ]
     },
-    "font_size": 9.26,
+    "font_size_range": [
+      8.5,
+      9.5
+    ],
     "fonts": [
-      "Helvetica"
+      "helvetica"
     ],
     "bold": false,
-    "italic": false
+    "italic": false,
+    "pages": [
+      0
+    ]
   },
   "Date": {
-    "avg_position": {
-      "x": 56.49985108008752,
-      "y": 109.66341843564287,
-      "width": 49.72658778459598,
-      "height": 13.609000589093592
+    "position_range": {
+      "x": [
+        23.0,
+        53.0
+      ],
+      "y": [
+        32.29999923706055,
+        62.29999923706055
+      ],
+      "width": [
+        16.669998168945312,
+        26.669998168945312
+      ],
+      "height": [
+        10.770000457763672,
+        16.770000457763672
+      ]
     },
-    "font_size": 9.89,
+    "font_size_range": [
+      9.5,
+      10.5
+    ],
     "fonts": [
-      "Helvetica-Bold",
-      "Helvetica"
+      "helvetica",
+      "helveticabold"
     ],
     "bold": true,
-    "italic": false
+    "italic": false,
+    "pages": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13
+    ]
   },
   "Interest Rate(% p.a.)": {
-    "avg_position": {
-      "x": 31.82608695652174,
-      "y": 247.07413582179856,
-      "width": 105.05790047023608,
-      "height": 12.724430250084918
+    "position_range": {
+      "x": [
+        21.0,
+        51.0
+      ],
+      "y": [
+        213.8249969482422,
+        243.8249969482422
+      ],
+      "width": [
+        84.47999572753906,
+        94.47999572753906
+      ],
+      "height": [
+        9.365997314453125,
+        15.365997314453125
+      ]
     },
-    "font_size": 9.26,
+    "font_size_range": [
+      8.5,
+      9.5
+    ],
     "fonts": [
-      "Helvetica"
+      "helvetica"
     ],
     "bold": false,
-    "italic": false
+    "italic": false,
+    "pages": [
+      0
+    ]
   },
   "Address": {
-    "avg_position": {
-      "x": 31.82608695652174,
-      "y": 105.09587495223336,
-      "width": 123.97316277545431,
-      "height": 12.72443787947945
+    "position_range": {
+      "x": [
+        21.0,
+        51.0
+      ],
+      "y": [
+        92.32499694824219,
+        122.32499694824219
+      ],
+      "width": [
+        31.680004119873047,
+        41.68000411987305
+      ],
+      "height": [
+        9.366004943847656,
+        15.366004943847656
+      ]
     },
-    "font_size": 9.26,
+    "font_size_range": [
+      8.5,
+      9.5
+    ],
     "fonts": [
-      "Helvetica"
+      "helvetica"
     ],
     "bold": false,
-    "italic": false
+    "italic": false,
+    "pages": [
+      0
+    ]
   },
   "CIF No.": {
-    "avg_position": {
-      "x": 31.82608695652174,
-      "y": 274.85673655634344,
-      "width": 97.71714683201002,
-      "height": 12.724441528320312
+    "position_range": {
+      "x": [
+        21.0,
+        51.0
+      ],
+      "y": [
+        240.8249969482422,
+        270.8249969482422
+      ],
+      "width": [
+        29.450000762939453,
+        39.45000076293945
+      ],
+      "height": [
+        9.366012573242188,
+        15.366012573242188
+      ]
     },
-    "font_size": 9.26,
+    "font_size_range": [
+      8.5,
+      9.5
+    ],
     "fonts": [
-      "Helvetica"
+      "helvetica"
     ],
     "bold": false,
-    "italic": false
+    "italic": false,
+    "pages": [
+      0
+    ]
   },
   "Nomination Registered": {
-    "avg_position": {
-      "x": 31.82608695652174,
-      "y": 355.4654434867527,
-      "width": 111.84651449452276,
-      "height": 12.724430250084918
+    "position_range": {
+      "x": [
+        21.0,
+        51.0
+      ],
+      "y": [
+        321.82501220703125,
+        351.82501220703125
+      ],
+      "width": [
+        96.69999694824219,
+        106.69999694824219
+      ],
+      "height": [
+        9.365997314453125,
+        15.365997314453125
+      ]
     },
-    "font_size": 9.26,
+    "font_size_range": [
+      8.5,
+      9.5
+    ],
     "fonts": [
-      "Helvetica"
+      "helvetica"
     ],
     "bold": false,
-    "italic": false
+    "italic": false,
+    "pages": [
+      0
+    ]
   },
   "MICR Code": {
-    "avg_position": {
-      "x": 31.82608695652174,
-      "y": 323.37848696501356,
-      "width": 102.21689108143683,
-      "height": 12.724430250084918
+    "position_range": {
+      "x": [
+        21.0,
+        51.0
+      ],
+      "y": [
+        294.82501220703125,
+        324.82501220703125
+      ],
+      "width": [
+        47.230003356933594,
+        57.230003356933594
+      ],
+      "height": [
+        9.365997314453125,
+        15.365997314453125
+      ]
     },
-    "font_size": 9.26,
+    "font_size_range": [
+      8.5,
+      9.5
+    ],
     "fonts": [
-      "Helvetica"
+      "helvetica"
     ],
     "bold": false,
-    "italic": false
+    "italic": false,
+    "pages": [
+      0
+    ]
   },
   "MOD Balance": {
-    "avg_position": {
-      "x": 36.0,
-      "y": 242.3249969482422,
-      "width": 104.58420517865349,
-      "height": 12.365997314453125
+    "position_range": {
+      "x": [
+        21.0,
+        51.0
+      ],
+      "y": [
+        227.3249969482422,
+        257.3249969482422
+      ],
+      "width": [
+        126.07595825195312,
+        136.07595825195312
+      ],
+      "height": [
+        9.365997314453125,
+        15.365997314453125
+      ]
     },
-    "font_size": 9.0,
+    "font_size_range": [
+      8.5,
+      9.5
+    ],
     "fonts": [
-      "Helvetica"
+      "helvetica"
     ],
     "bold": false,
-    "italic": false
+    "italic": false,
+    "pages": [
+      0
+    ]
   },
   "CKYCR Number": {
-    "avg_position": {
-      "x": 36.0,
-      "y": 269.32501220703125,
-      "width": 154.93254228071734,
-      "height": 12.365997314453125
+    "position_range": {
+      "x": [
+        21.0,
+        51.0
+      ],
+      "y": [
+        254.32501220703125,
+        284.32501220703125
+      ],
+      "width": [
+        113.5479736328125,
+        123.5479736328125
+      ],
+      "height": [
+        9.365997314453125,
+        15.365997314453125
+      ]
     },
-    "font_size": 9.0,
+    "font_size_range": [
+      8.5,
+      9.5
+    ],
     "fonts": [
-      "Helvetica"
+      "helvetica"
     ],
     "bold": false,
-    "italic": false
+    "italic": false,
+    "pages": [
+      0
+    ]
   }
 }

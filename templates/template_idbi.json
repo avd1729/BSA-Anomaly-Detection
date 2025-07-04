@@ -1,156 +1,354 @@
 {
   "Account Holder Name": {
-    "avg_position": {
-      "x": 39.0,
-      "y": 123.219970703125,
-      "width": 97.80998229980469,
-      "height": 13.740005493164062
+    "position_range": {
+      "x": [
+        24.0,
+        54.0
+      ],
+      "y": [
+        108.219970703125,
+        138.219970703125
+      ],
+      "width": [
+        92.80998229980469,
+        102.80998229980469
+      ],
+      "height": [
+        10.740005493164062,
+        16.740005493164062
+      ]
     },
-    "font_size": 10.0,
+    "font_size_range": [
+      9.5,
+      10.5
+    ],
     "fonts": [
-      "Helvetica"
+      "helvetica"
     ],
     "bold": false,
-    "italic": false
+    "italic": false,
+    "pages": [
+      0
+    ]
   },
   "Address": {
-    "avg_position": {
-      "x": 179.59500122070312,
-      "y": 151.219970703125,
-      "width": 111.74499893188477,
-      "height": 13.740005493164062
+    "position_range": {
+      "x": [
+        164.59500122070312,
+        194.59500122070312
+      ],
+      "y": [
+        136.219970703125,
+        166.219970703125
+      ],
+      "width": [
+        106.74499893188477,
+        116.74499893188477
+      ],
+      "height": [
+        10.740005493164062,
+        16.740005493164062
+      ]
     },
-    "font_size": 10.0,
+    "font_size_range": [
+      9.5,
+      10.5
+    ],
     "fonts": [
-      "Helvetica"
+      "helvetica"
     ],
     "bold": false,
-    "italic": false
+    "italic": false,
+    "pages": [
+      0
+    ]
   },
   "Account No": {
-    "avg_position": {
-      "x": 39.0,
-      "y": 161.219970703125,
-      "width": 51.68999481201172,
-      "height": 13.740005493164062
+    "position_range": {
+      "x": [
+        24.0,
+        54.0
+      ],
+      "y": [
+        146.219970703125,
+        176.219970703125
+      ],
+      "width": [
+        46.68999481201172,
+        56.68999481201172
+      ],
+      "height": [
+        10.740005493164062,
+        16.740005493164062
+      ]
     },
-    "font_size": 10.0,
+    "font_size_range": [
+      9.5,
+      10.5
+    ],
     "fonts": [
-      "Helvetica"
+      "helvetica"
     ],
     "bold": false,
-    "italic": false
+    "italic": false,
+    "pages": [
+      0
+    ]
   },
   "Account Opening Date": {
-    "avg_position": {
-      "x": 39.0,
-      "y": 175.219970703125,
-      "width": 100.6099853515625,
-      "height": 13.740005493164062
+    "position_range": {
+      "x": [
+        24.0,
+        54.0
+      ],
+      "y": [
+        160.219970703125,
+        190.219970703125
+      ],
+      "width": [
+        95.6099853515625,
+        105.6099853515625
+      ],
+      "height": [
+        10.740005493164062,
+        16.740005493164062
+      ]
     },
-    "font_size": 10.0,
+    "font_size_range": [
+      9.5,
+      10.5
+    ],
     "fonts": [
-      "Helvetica"
+      "helvetica"
     ],
     "bold": false,
-    "italic": false
+    "italic": false,
+    "pages": [
+      0
+    ]
   },
   "Account Status": {
-    "avg_position": {
-      "x": 39.0,
-      "y": 189.219970703125,
-      "width": 67.2599868774414,
-      "height": 13.740005493164062
+    "position_range": {
+      "x": [
+        24.0,
+        54.0
+      ],
+      "y": [
+        174.219970703125,
+        204.219970703125
+      ],
+      "width": [
+        62.259986877441406,
+        72.2599868774414
+      ],
+      "height": [
+        10.740005493164062,
+        16.740005493164062
+      ]
     },
-    "font_size": 10.0,
+    "font_size_range": [
+      9.5,
+      10.5
+    ],
     "fonts": [
-      "Helvetica"
+      "helvetica"
     ],
     "bold": false,
-    "italic": false
+    "italic": false,
+    "pages": [
+      0
+    ]
   },
   "Currency": {
-    "avg_position": {
-      "x": 39.0,
-      "y": 203.219970703125,
-      "width": 40.55999755859375,
-      "height": 13.740005493164062
+    "position_range": {
+      "x": [
+        24.0,
+        54.0
+      ],
+      "y": [
+        188.219970703125,
+        218.219970703125
+      ],
+      "width": [
+        35.55999755859375,
+        45.55999755859375
+      ],
+      "height": [
+        10.740005493164062,
+        16.740005493164062
+      ]
     },
-    "font_size": 10.0,
+    "font_size_range": [
+      9.5,
+      10.5
+    ],
     "fonts": [
-      "Helvetica"
+      "helvetica"
     ],
     "bold": false,
-    "italic": false
+    "italic": false,
+    "pages": [
+      0
+    ]
   },
   "Nominee Registered": {
-    "avg_position": {
-      "x": 39.0,
-      "y": 217.219970703125,
-      "width": 91.13999938964844,
-      "height": 13.740005493164062
+    "position_range": {
+      "x": [
+        24.0,
+        54.0
+      ],
+      "y": [
+        202.219970703125,
+        232.219970703125
+      ],
+      "width": [
+        86.13999938964844,
+        96.13999938964844
+      ],
+      "height": [
+        10.740005493164062,
+        16.740005493164062
+      ]
     },
-    "font_size": 10.0,
+    "font_size_range": [
+      9.5,
+      10.5
+    ],
     "fonts": [
-      "Helvetica"
+      "helvetica"
     ],
     "bold": false,
-    "italic": false
+    "italic": false,
+    "pages": [
+      0
+    ]
   },
   "Sol Id/Branch Code": {
-    "avg_position": {
-      "x": 320.19000244140625,
-      "y": 127.219970703125,
-      "width": 134.58999633789062,
-      "height": 13.740005493164062
+    "position_range": {
+      "x": [
+        305.19000244140625,
+        335.19000244140625
+      ],
+      "y": [
+        112.219970703125,
+        142.219970703125
+      ],
+      "width": [
+        129.58999633789062,
+        139.58999633789062
+      ],
+      "height": [
+        10.740005493164062,
+        16.740005493164062
+      ]
     },
-    "font_size": 10.0,
+    "font_size_range": [
+      9.5,
+      10.5
+    ],
     "fonts": [
-      "Helvetica"
+      "helvetica"
     ],
     "bold": false,
-    "italic": false
+    "italic": false,
+    "pages": [
+      0
+    ]
   },
   "Account Branch": {
-    "avg_position": {
-      "x": 320.19000244140625,
-      "y": 141.219970703125,
-      "width": 172.9100341796875,
-      "height": 13.740005493164062
+    "position_range": {
+      "x": [
+        305.19000244140625,
+        335.19000244140625
+      ],
+      "y": [
+        126.219970703125,
+        156.219970703125
+      ],
+      "width": [
+        167.9100341796875,
+        177.9100341796875
+      ],
+      "height": [
+        10.740005493164062,
+        16.740005493164062
+      ]
     },
-    "font_size": 10.0,
+    "font_size_range": [
+      9.5,
+      10.5
+    ],
     "fonts": [
-      "Helvetica"
+      "helvetica"
     ],
     "bold": false,
-    "italic": false
+    "italic": false,
+    "pages": [
+      0
+    ]
   },
   "Branch IFSC Code": {
-    "avg_position": {
-      "x": 320.19000244140625,
-      "y": 209.219970703125,
-      "width": 178.510009765625,
-      "height": 13.740005493164062
+    "position_range": {
+      "x": [
+        305.19000244140625,
+        335.19000244140625
+      ],
+      "y": [
+        194.219970703125,
+        224.219970703125
+      ],
+      "width": [
+        173.510009765625,
+        183.510009765625
+      ],
+      "height": [
+        10.740005493164062,
+        16.740005493164062
+      ]
     },
-    "font_size": 10.0,
+    "font_size_range": [
+      9.5,
+      10.5
+    ],
     "fonts": [
-      "Helvetica"
+      "helvetica"
     ],
     "bold": false,
-    "italic": false
+    "italic": false,
+    "pages": [
+      0
+    ]
   },
   "Branch Email Id": {
-    "avg_position": {
-      "x": 320.19000244140625,
-      "y": 223.219970703125,
-      "width": 228.1199951171875,
-      "height": 13.740005493164062
+    "position_range": {
+      "x": [
+        305.19000244140625,
+        335.19000244140625
+      ],
+      "y": [
+        208.219970703125,
+        238.219970703125
+      ],
+      "width": [
+        223.1199951171875,
+        233.1199951171875
+      ],
+      "height": [
+        10.740005493164062,
+        16.740005493164062
+      ]
     },
-    "font_size": 10.0,
+    "font_size_range": [
+      9.5,
+      10.5
+    ],
     "fonts": [
-      "Helvetica"
+      "helvetica"
     ],
     "bold": false,
-    "italic": false
+    "italic": false,
+    "pages": [
+      0
+    ]
   }
 }

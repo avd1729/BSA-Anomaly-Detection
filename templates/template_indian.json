@@ -1,156 +1,366 @@
 {
   "Account Holder Name": {
-    "avg_position": {
-      "x": 50.0,
-      "y": 143.45492553710938,
-      "width": 87.99298095703125,
-      "height": 9.0
+    "position_range": {
+      "x": [
+        35.0,
+        65.0
+      ],
+      "y": [
+        128.45492553710938,
+        158.45492553710938
+      ],
+      "width": [
+        82.99298095703125,
+        92.99298095703125
+      ],
+      "height": [
+        6.0,
+        12.0
+      ]
     },
-    "font_size": 9.0,
+    "font_size_range": [
+      8.5,
+      9.5
+    ],
     "fonts": [
-      "ArialMT"
+      "arial"
     ],
     "bold": false,
-    "italic": false
+    "italic": false,
+    "pages": [
+      0
+    ]
   },
   "Account Type": {
-    "avg_position": {
-      "x": 50.0,
-      "y": 168.34163920084634,
-      "width": 55.02598571777344,
-      "height": 12.365997314453125
+    "position_range": {
+      "x": [
+        35.0,
+        65.0
+      ],
+      "y": [
+        156.6749725341797,
+        186.6749725341797
+      ],
+      "width": [
+        50.02598571777344,
+        60.02598571777344
+      ],
+      "height": [
+        9.365997314453125,
+        15.365997314453125
+      ]
     },
-    "font_size": 9.0,
+    "font_size_range": [
+      8.5,
+      9.5
+    ],
     "fonts": [
-      "Helvetica"
+      "helvetica"
     ],
     "bold": false,
-    "italic": false
+    "italic": false,
+    "pages": [
+      0
+    ]
   },
   "Account Number": {
-    "avg_position": {
-      "x": 50.0,
-      "y": 189.34163920084634,
-      "width": 67.02298736572266,
-      "height": 12.365997314453125
+    "position_range": {
+      "x": [
+        35.0,
+        65.0
+      ],
+      "y": [
+        177.6749725341797,
+        207.6749725341797
+      ],
+      "width": [
+        62.022987365722656,
+        72.02298736572266
+      ],
+      "height": [
+        9.365997314453125,
+        15.365997314453125
+      ]
     },
-    "font_size": 9.0,
+    "font_size_range": [
+      8.5,
+      9.5
+    ],
     "fonts": [
-      "Helvetica"
+      "helvetica"
     ],
     "bold": false,
-    "italic": false
+    "italic": false,
+    "pages": [
+      0
+    ]
   },
   "Customer's Address": {
-    "avg_position": {
-      "x": 50.0,
-      "y": 210.34163920084634,
-      "width": 80.73898315429688,
-      "height": 12.365997314453125
+    "position_range": {
+      "x": [
+        35.0,
+        65.0
+      ],
+      "y": [
+        198.6749725341797,
+        228.6749725341797
+      ],
+      "width": [
+        75.73898315429688,
+        85.73898315429688
+      ],
+      "height": [
+        9.365997314453125,
+        15.365997314453125
+      ]
     },
-    "font_size": 9.0,
+    "font_size_range": [
+      8.5,
+      9.5
+    ],
     "fonts": [
-      "Helvetica"
+      "helvetica"
     ],
     "bold": false,
-    "italic": false
+    "italic": false,
+    "pages": [
+      0
+    ]
   },
   "Branch Name": {
-    "avg_position": {
-      "x": 50.0,
-      "y": 269.67498270670575,
-      "width": 55.016990661621094,
-      "height": 12.366002400716146
+    "position_range": {
+      "x": [
+        35.0,
+        65.0
+      ],
+      "y": [
+        261.67498779296875,
+        291.67498779296875
+      ],
+      "width": [
+        50.016990661621094,
+        60.016990661621094
+      ],
+      "height": [
+        9.365997314453125,
+        15.365997314453125
+      ]
     },
-    "font_size": 9.0,
+    "font_size_range": [
+      8.5,
+      9.5
+    ],
     "fonts": [
-      "Helvetica"
+      "helvetica"
     ],
     "bold": false,
-    "italic": false
+    "italic": false,
+    "pages": [
+      0
+    ]
   },
   "IFSC": {
-    "avg_position": {
-      "x": 127.1875,
-      "y": 423.9443874359131,
-      "width": 87.64029216766357,
-      "height": 12.365985870361328
+    "position_range": {
+      "x": [
+        130.0,
+        160.0
+      ],
+      "y": [
+        326.6300048828125,
+        356.6300048828125
+      ],
+      "width": [
+        105.06097412109375,
+        115.06097412109375
+      ],
+      "height": [
+        9.365997314453125,
+        15.365997314453125
+      ]
     },
-    "font_size": 9.0,
+    "font_size_range": [
+      8.5,
+      9.5
+    ],
     "fonts": [
-      "Helvetica"
+      "helvetica"
     ],
     "bold": false,
-    "italic": false
+    "italic": false,
+    "pages": [
+      0,
+      1,
+      13,
+      32,
+      36,
+      49,
+      85,
+      107,
+      142,
+      143
+    ]
   },
   "Account Currency": {
-    "avg_position": {
-      "x": 50.0,
-      "y": 311.67498779296875,
-      "width": 71.52298736572266,
-      "height": 12.365997314453125
+    "position_range": {
+      "x": [
+        35.0,
+        65.0
+      ],
+      "y": [
+        303.67498779296875,
+        333.67498779296875
+      ],
+      "width": [
+        66.52298736572266,
+        76.52298736572266
+      ],
+      "height": [
+        9.365997314453125,
+        15.365997314453125
+      ]
     },
-    "font_size": 9.0,
+    "font_size_range": [
+      8.5,
+      9.5
+    ],
     "fonts": [
-      "Helvetica"
+      "helvetica"
     ],
     "bold": false,
-    "italic": false
+    "italic": false,
+    "pages": [
+      0
+    ]
   },
   "Opening Balance": {
-    "avg_position": {
-      "x": 347.0,
-      "y": 147.6749725341797,
-      "width": 69.03897094726562,
-      "height": 12.365997314453125
+    "position_range": {
+      "x": [
+        332.0,
+        362.0
+      ],
+      "y": [
+        132.6749725341797,
+        162.6749725341797
+      ],
+      "width": [
+        64.03897094726562,
+        74.03897094726562
+      ],
+      "height": [
+        9.365997314453125,
+        15.365997314453125
+      ]
     },
-    "font_size": 9.0,
+    "font_size_range": [
+      8.5,
+      9.5
+    ],
     "fonts": [
-      "Helvetica"
+      "helvetica"
     ],
     "bold": false,
-    "italic": false
+    "italic": false,
+    "pages": [
+      0
+    ]
   },
   "Total Credits": {
-    "avg_position": {
-      "x": 347.0,
-      "y": 183.6749725341797,
-      "width": 51.011993408203125,
-      "height": 12.365997314453125
+    "position_range": {
+      "x": [
+        332.0,
+        362.0
+      ],
+      "y": [
+        168.6749725341797,
+        198.6749725341797
+      ],
+      "width": [
+        46.011993408203125,
+        56.011993408203125
+      ],
+      "height": [
+        9.365997314453125,
+        15.365997314453125
+      ]
     },
-    "font_size": 9.0,
+    "font_size_range": [
+      8.5,
+      9.5
+    ],
     "fonts": [
-      "Helvetica"
+      "helvetica"
     ],
     "bold": false,
-    "italic": false
+    "italic": false,
+    "pages": [
+      0
+    ]
   },
   "Total Debits": {
-    "avg_position": {
-      "x": 347.0,
-      "y": 219.6749725341797,
-      "width": 48.014984130859375,
-      "height": 12.365997314453125
+    "position_range": {
+      "x": [
+        332.0,
+        362.0
+      ],
+      "y": [
+        204.6749725341797,
+        234.6749725341797
+      ],
+      "width": [
+        43.014984130859375,
+        53.014984130859375
+      ],
+      "height": [
+        9.365997314453125,
+        15.365997314453125
+      ]
     },
-    "font_size": 9.0,
+    "font_size_range": [
+      8.5,
+      9.5
+    ],
     "fonts": [
-      "Helvetica"
+      "helvetica"
     ],
     "bold": false,
-    "italic": false
+    "italic": false,
+    "pages": [
+      0
+    ]
   },
   "Ending Balance": {
-    "avg_position": {
-      "x": 198.5,
-      "y": 297.73158327738446,
-      "width": 67.4189682006836,
-      "height": 8.999999364217123
+    "position_range": {
+      "x": [
+        183.5,
+        213.5
+      ],
+      "y": [
+        241.56491088867188,
+        271.5649108886719
+      ],
+      "width": [
+        62.418968200683594,
+        72.4189682006836
+      ],
+      "height": [
+        6.0,
+        12.0
+      ]
     },
-    "font_size": 9.0,
+    "font_size_range": [
+      8.5,
+      9.5
+    ],
     "fonts": [
-      "ArialBold"
+      "arialbold"
     ],
     "bold": true,
-    "italic": false
+    "italic": false,
+    "pages": [
+      0,
+      38,
+      52,
+      146
+    ]
   }
 }
