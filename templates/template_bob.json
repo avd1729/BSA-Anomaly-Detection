@@ -1,0 +1,114 @@
+{
+  "Account Name": {
+    "avg_position": {
+      "x": 27.0,
+      "y": 208.6100311279297,
+      "width": 42.00599670410156,
+      "height": 8.261993408203125
+    },
+    "font_size": 6.0,
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "bold": true,
+    "italic": false
+  },
+  "Account Number": {
+    "avg_position": {
+      "x": 27.0,
+      "y": 244.6100311279297,
+      "width": 48.33599853515625,
+      "height": 8.261993408203125
+    },
+    "font_size": 6.0,
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "bold": true,
+    "italic": false
+  },
+  "Account Type": {
+    "avg_position": {
+      "x": 27.0,
+      "y": 278.6100158691406,
+      "width": 39.6719970703125,
+      "height": 8.26202392578125
+    },
+    "font_size": 6.0,
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "bold": true,
+    "italic": false
+  },
+  "Customer Address": {
+    "avg_position": {
+      "x": 27.0,
+      "y": 313.6100158691406,
+      "width": 53.675994873046875,
+      "height": 8.26202392578125
+    },
+    "font_size": 6.0,
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "bold": true,
+    "italic": false
+  },
+  "Branch Name": {
+    "avg_position": {
+      "x": 532.3200073242188,
+      "y": 208.6100311279297,
+      "width": 38.67596435546875,
+      "height": 8.261993408203125
+    },
+    "font_size": 6.0,
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "bold": true,
+    "italic": false
+  },
+  "IFSC Code": {
+    "avg_position": {
+      "x": 540.6599731445312,
+      "y": 244.6100311279297,
+      "width": 30.3360595703125,
+      "height": 8.261993408203125
+    },
+    "font_size": 6.0,
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "bold": true,
+    "italic": false
+  },
+  "MICR Code": {
+    "avg_position": {
+      "x": 539.0,
+      "y": 278.6100158691406,
+      "width": 31.99798583984375,
+      "height": 8.26202392578125
+    },
+    "font_size": 6.0,
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "bold": true,
+    "italic": false
+  },
+  "Branch Address": {
+    "avg_position": {
+      "x": 524.6599731445312,
+      "y": 312.6100158691406,
+      "width": 46.343994140625,
+      "height": 8.26202392578125
+    },
+    "font_size": 6.0,
+    "fonts": [
+      "Helvetica-Bold"
+    ],
+    "bold": true,
+    "italic": false
+  }
+}

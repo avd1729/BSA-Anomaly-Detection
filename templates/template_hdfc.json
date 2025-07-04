@@ -1,0 +1,219 @@
+{
+  "State": {
+    "avg_position": {
+      "x": 233.3714476461267,
+      "y": 354.92810225252856,
+      "width": 57.40010663089291,
+      "height": 11.553966175426137
+    },
+    "font_size": 8.69,
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman",
+      "ZurichBT-Roman"
+    ],
+    "bold": true,
+    "italic": false
+  },
+  "Account Branch": {
+    "avg_position": {
+      "x": 184.25150680541992,
+      "y": 433.6510066986084,
+      "width": 142.5159428776474,
+      "height": 10.183504104614258
+    },
+    "font_size": 7.5,
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "bold": true,
+    "italic": false
+  },
+  "Address": {
+    "avg_position": {
+      "x": 132.33313760585304,
+      "y": 564.5345840812159,
+      "width": 289.3293825665966,
+      "height": 9.776450425020624
+    },
+    "font_size": 7.33,
+    "fonts": [
+      "Times-Roman",
+      "ZurichBT-Roman"
+    ],
+    "bold": false,
+    "italic": false
+  },
+  "City": {
+    "avg_position": {
+      "x": 293.11133011284227,
+      "y": 90.20570323139155,
+      "width": 30.27406814995162,
+      "height": 10.6719970703125
+    },
+    "font_size": 8.0,
+    "fonts": [
+      "Times-Roman"
+    ],
+    "bold": false,
+    "italic": false
+  },
+  "Phone no.": {
+    "avg_position": {
+      "x": 340.1570129394531,
+      "y": 102.54103088378906,
+      "width": 32.0,
+      "height": 10.6719970703125
+    },
+    "font_size": 8.0,
+    "fonts": [
+      "Times-Roman"
+    ],
+    "bold": false,
+    "italic": false
+  },
+  "OD Limit": {
+    "avg_position": {
+      "x": 340.1570129394531,
+      "y": 111.24098205566406,
+      "width": 31.33599853515625,
+      "height": 10.6719970703125
+    },
+    "font_size": 8.0,
+    "fonts": [
+      "Times-Roman"
+    ],
+    "bold": false,
+    "italic": false
+  },
+  "Currency": {
+    "avg_position": {
+      "x": 357.4059659415884,
+      "y": 118.28025440538782,
+      "width": 33.58579278974885,
+      "height": 10.6719970703125
+    },
+    "font_size": 8.0,
+    "fonts": [
+      "Times-Roman"
+    ],
+    "bold": false,
+    "italic": false
+  },
+  "Email": {
+    "avg_position": {
+      "x": 340.1570129394531,
+      "y": 126.98026661241907,
+      "width": 19.11199951171875,
+      "height": 10.6719970703125
+    },
+    "font_size": 8.0,
+    "fonts": [
+      "Times-Roman"
+    ],
+    "bold": false,
+    "italic": false
+  },
+  "Cust ID": {
+    "avg_position": {
+      "x": 339.47918390711664,
+      "y": 136.02959072228634,
+      "width": 25.853964867529932,
+      "height": 10.670542531199269
+    },
+    "font_size": 8.0,
+    "fonts": [
+      "Times-Roman",
+      "ZurichBT-Roman"
+    ],
+    "bold": false,
+    "italic": false
+  },
+  "Account No": {
+    "avg_position": {
+      "x": 340.1570129394531,
+      "y": 144.3802910264816,
+      "width": 38.8800048828125,
+      "height": 10.6719970703125
+    },
+    "font_size": 8.0,
+    "fonts": [
+      "Times-Roman"
+    ],
+    "bold": false,
+    "italic": false
+  },
+  "A/C Open Date": {
+    "avg_position": {
+      "x": 340.1570129394531,
+      "y": 153.08025384931915,
+      "width": 49.76800537109375,
+      "height": 10.6719970703125
+    },
+    "font_size": 8.0,
+    "fonts": [
+      "Times-Roman"
+    ],
+    "bold": false,
+    "italic": false
+  },
+  "RTGS/NEFT IFSC": {
+    "avg_position": {
+      "x": 368.5030059814453,
+      "y": 170.78430380997068,
+      "width": 55.592926025390625,
+      "height": 10.205101013183594
+    },
+    "font_size": 7.65,
+    "fonts": [
+      "Times-Roman"
+    ],
+    "bold": false,
+    "italic": false
+  },
+  "MICR": {
+    "avg_position": {
+      "x": 457.7705315852511,
+      "y": 184.24515456047612,
+      "width": 68.0910701238344,
+      "height": 10.6664649536891
+    },
+    "font_size": 8.0,
+    "fonts": [
+      "Times-Roman",
+      "ZurichBT-Roman"
+    ],
+    "bold": false,
+    "italic": false
+  },
+  "Branch Code": {
+    "avg_position": {
+      "x": 343.34910532206044,
+      "y": 190.28615278356216,
+      "width": 43.99420492989676,
+      "height": 10.68485439524931
+    },
+    "font_size": 8.0,
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "bold": true,
+    "italic": false
+  },
+  "Product Code": {
+    "avg_position": {
+      "x": 440.7913547606892,
+      "y": 179.24924854601284,
+      "width": 62.64208242950109,
+      "height": 10.6719970703125
+    },
+    "font_size": 8.0,
+    "fonts": [
+      "Times-Roman"
+    ],
+    "bold": false,
+    "italic": false
+  }
+}

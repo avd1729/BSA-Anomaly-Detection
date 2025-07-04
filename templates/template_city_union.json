@@ -1,0 +1,87 @@
+{
+  "BRANCH": {
+    "avg_position": {
+      "x": 251.0500030517578,
+      "y": 738.4810028076172,
+      "width": 545.3995208740234,
+      "height": 22.592010498046875
+    },
+    "font_size": 17.0,
+    "fonts": [
+      "Courier",
+      "Courier-Bold"
+    ],
+    "bold": true,
+    "italic": false
+  },
+  "ACCOUNT NO": {
+    "avg_position": {
+      "x": 20.0,
+      "y": 249.37399291992188,
+      "width": 523.7997131347656,
+      "height": 25.20001220703125
+    },
+    "font_size": 18.0,
+    "fonts": [
+      "Courier-Bold"
+    ],
+    "bold": true,
+    "italic": false
+  },
+  "IFSC": {
+    "avg_position": {
+      "x": 20.0,
+      "y": 289.8739929199219,
+      "width": 464.3997802734375,
+      "height": 25.20001220703125
+    },
+    "font_size": 18.0,
+    "fonts": [
+      "Courier-Bold"
+    ],
+    "bold": true,
+    "italic": false
+  },
+  "ACCOUNT TYPE": {
+    "avg_position": {
+      "x": 20.0,
+      "y": 316.8739929199219,
+      "width": 345.59991455078125,
+      "height": 25.20001220703125
+    },
+    "font_size": 18.0,
+    "fonts": [
+      "Courier-Bold"
+    ],
+    "bold": true,
+    "italic": false
+  },
+  "CUSTOMER DETAILS": {
+    "avg_position": {
+      "x": 20.0,
+      "y": 343.8739929199219,
+      "width": 485.999755859375,
+      "height": 25.20001220703125
+    },
+    "font_size": 18.0,
+    "fonts": [
+      "Courier-Bold"
+    ],
+    "bold": true,
+    "italic": false
+  },
+  "Statement Date": {
+    "avg_position": {
+      "x": 20.0,
+      "y": 505.8739929199219,
+      "width": 615.599609375,
+      "height": 25.199981689453125
+    },
+    "font_size": 18.0,
+    "fonts": [
+      "Courier-Bold"
+    ],
+    "bold": true,
+    "italic": false
+  }
+}

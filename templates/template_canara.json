@@ -1,0 +1,86 @@
+{
+  "Customer Id": {
+    "avg_position": {
+      "x": 14.850000381469727,
+      "y": 183.60000610351562,
+      "width": 65.35199546813965,
+      "height": 16.487991333007812
+    },
+    "font_size": 12.0,
+    "fonts": [
+      "Helvetica"
+    ],
+    "bold": false,
+    "italic": false
+  },
+  "Name": {
+    "avg_position": {
+      "x": 137.20470753838035,
+      "y": 268.3352966308594,
+      "width": 103.69480952094582,
+      "height": 16.48799941119026
+    },
+    "font_size": 12.0,
+    "fonts": [
+      "Helvetica"
+    ],
+    "bold": false,
+    "italic": false
+  },
+  "Phone": {
+    "avg_position": {
+      "x": 103.5389859096424,
+      "y": 402.50877906180716,
+      "width": 151.22235825255112,
+      "height": 16.488013396392
+    },
+    "font_size": 12.0,
+    "fonts": [
+      "Helvetica"
+    ],
+    "bold": false,
+    "italic": false
+  },
+  "Address": {
+    "avg_position": {
+      "x": 97.30000162124634,
+      "y": 388.1999984741211,
+      "width": 228.80208177566527,
+      "height": 16.488014221191406
+    },
+    "font_size": 12.0,
+    "fonts": [
+      "Helvetica"
+    ],
+    "bold": false,
+    "italic": false
+  },
+  "Branch Code": {
+    "avg_position": {
+      "x": 302.3500061035156,
+      "y": 185.20000610351562,
+      "width": 70.031982421875,
+      "height": 16.487991333007812
+    },
+    "font_size": 12.0,
+    "fonts": [
+      "Helvetica"
+    ],
+    "bold": false,
+    "italic": false
+  },
+  "IFSC Code": {
+    "avg_position": {
+      "x": 302.3500061035156,
+      "y": 223.20000610351562,
+      "width": 59.35198974609375,
+      "height": 16.487991333007812
+    },
+    "font_size": 12.0,
+    "fonts": [
+      "Helvetica"
+    ],
+    "bold": false,
+    "italic": false
+  }
+}

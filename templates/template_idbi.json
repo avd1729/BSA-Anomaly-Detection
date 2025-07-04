@@ -1,0 +1,156 @@
+{
+  "Account Holder Name": {
+    "avg_position": {
+      "x": 39.0,
+      "y": 123.219970703125,
+      "width": 97.80998229980469,
+      "height": 13.740005493164062
+    },
+    "font_size": 10.0,
+    "fonts": [
+      "Helvetica"
+    ],
+    "bold": false,
+    "italic": false
+  },
+  "Address": {
+    "avg_position": {
+      "x": 179.59500122070312,
+      "y": 151.219970703125,
+      "width": 111.74499893188477,
+      "height": 13.740005493164062
+    },
+    "font_size": 10.0,
+    "fonts": [
+      "Helvetica"
+    ],
+    "bold": false,
+    "italic": false
+  },
+  "Account No": {
+    "avg_position": {
+      "x": 39.0,
+      "y": 161.219970703125,
+      "width": 51.68999481201172,
+      "height": 13.740005493164062
+    },
+    "font_size": 10.0,
+    "fonts": [
+      "Helvetica"
+    ],
+    "bold": false,
+    "italic": false
+  },
+  "Account Opening Date": {
+    "avg_position": {
+      "x": 39.0,
+      "y": 175.219970703125,
+      "width": 100.6099853515625,
+      "height": 13.740005493164062
+    },
+    "font_size": 10.0,
+    "fonts": [
+      "Helvetica"
+    ],
+    "bold": false,
+    "italic": false
+  },
+  "Account Status": {
+    "avg_position": {
+      "x": 39.0,
+      "y": 189.219970703125,
+      "width": 67.2599868774414,
+      "height": 13.740005493164062
+    },
+    "font_size": 10.0,
+    "fonts": [
+      "Helvetica"
+    ],
+    "bold": false,
+    "italic": false
+  },
+  "Currency": {
+    "avg_position": {
+      "x": 39.0,
+      "y": 203.219970703125,
+      "width": 40.55999755859375,
+      "height": 13.740005493164062
+    },
+    "font_size": 10.0,
+    "fonts": [
+      "Helvetica"
+    ],
+    "bold": false,
+    "italic": false
+  },
+  "Nominee Registered": {
+    "avg_position": {
+      "x": 39.0,
+      "y": 217.219970703125,
+      "width": 91.13999938964844,
+      "height": 13.740005493164062
+    },
+    "font_size": 10.0,
+    "fonts": [
+      "Helvetica"
+    ],
+    "bold": false,
+    "italic": false
+  },
+  "Sol Id/Branch Code": {
+    "avg_position": {
+      "x": 320.19000244140625,
+      "y": 127.219970703125,
+      "width": 134.58999633789062,
+      "height": 13.740005493164062
+    },
+    "font_size": 10.0,
+    "fonts": [
+      "Helvetica"
+    ],
+    "bold": false,
+    "italic": false
+  },
+  "Account Branch": {
+    "avg_position": {
+      "x": 320.19000244140625,
+      "y": 141.219970703125,
+      "width": 172.9100341796875,
+      "height": 13.740005493164062
+    },
+    "font_size": 10.0,
+    "fonts": [
+      "Helvetica"
+    ],
+    "bold": false,
+    "italic": false
+  },
+  "Branch IFSC Code": {
+    "avg_position": {
+      "x": 320.19000244140625,
+      "y": 209.219970703125,
+      "width": 178.510009765625,
+      "height": 13.740005493164062
+    },
+    "font_size": 10.0,
+    "fonts": [
+      "Helvetica"
+    ],
+    "bold": false,
+    "italic": false
+  },
+  "Branch Email Id": {
+    "avg_position": {
+      "x": 320.19000244140625,
+      "y": 223.219970703125,
+      "width": 228.1199951171875,
+      "height": 13.740005493164062
+    },
+    "font_size": 10.0,
+    "fonts": [
+      "Helvetica"
+    ],
+    "bold": false,
+    "italic": false
+  }
+}

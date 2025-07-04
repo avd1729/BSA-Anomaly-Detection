@@ -1,0 +1,128 @@
+{
+  "Customer ID": {
+    "avg_position": {
+      "x": 133.6300048828125,
+      "y": 625.3199462890625,
+      "width": 13.740005493164062,
+      "height": 61.6800537109375
+    },
+    "font_size": 10.0,
+    "fonts": [
+      "Helvetica"
+    ],
+    "bold": false,
+    "italic": false
+  },
+  "PAN": {
+    "avg_position": {
+      "x": 148.6300048828125,
+      "y": 660.8799438476562,
+      "width": 13.740005493164062,
+      "height": 26.12005615234375
+    },
+    "font_size": 10.0,
+    "fonts": [
+      "Helvetica"
+    ],
+    "bold": false,
+    "italic": false
+  },
+  "Mobile No": {
+    "avg_position": {
+      "x": 241.6300048828125,
+      "y": 636.429931640625,
+      "width": 13.740005493164062,
+      "height": 50.570068359375
+    },
+    "font_size": 10.0,
+    "fonts": [
+      "Helvetica"
+    ],
+    "bold": false,
+    "italic": false
+  },
+  "Email": {
+    "avg_position": {
+      "x": 256.6300048828125,
+      "y": 656.43994140625,
+      "width": 13.739990234375,
+      "height": 30.56005859375
+    },
+    "font_size": 10.0,
+    "fonts": [
+      "Helvetica"
+    ],
+    "bold": false,
+    "italic": false
+  },
+  "Account Number": {
+    "avg_position": {
+      "x": 290.6300048828125,
+      "y": 612.5299682617188,
+      "width": 13.739990234375,
+      "height": 74.47003173828125
+    },
+    "font_size": 10.0,
+    "fonts": [
+      "Helvetica"
+    ],
+    "bold": false,
+    "italic": false
+  },
+  "Account Type": {
+    "avg_position": {
+      "x": 350.6300048828125,
+      "y": 625.8599853515625,
+      "width": 13.739990234375,
+      "height": 61.1400146484375
+    },
+    "font_size": 10.0,
+    "fonts": [
+      "Helvetica"
+    ],
+    "bold": false,
+    "italic": false
+  },
+  "Account Status": {
+    "avg_position": {
+      "x": 365.6300048828125,
+      "y": 619.739990234375,
+      "width": 13.739990234375,
+      "height": 67.260009765625
+    },
+    "font_size": 10.0,
+    "fonts": [
+      "Helvetica"
+    ],
+    "bold": false,
+    "italic": false
+  },
+  "Branch Name": {
+    "avg_position": {
+      "x": 335.6300048828125,
+      "y": 625.8699951171875,
+      "width": 13.739990234375,
+      "height": 61.1300048828125
+    },
+    "font_size": 10.0,
+    "fonts": [
+      "Helvetica"
+    ],
+    "bold": false,
+    "italic": false
+  },
+  "Joint Holders": {
+    "avg_position": {
+      "x": 111.6300048828125,
+      "y": 536.969970703125,
+      "width": 13.739997863769531,
+      "height": 150.030029296875
+    },
+    "font_size": 10.0,
+    "fonts": [
+      "Helvetica"
+    ],
+    "bold": false,
+    "italic": false
+  }
+}

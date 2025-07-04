@@ -1,0 +1,171 @@
+{
+  "Joint Holder": {
+    "avg_position": {
+      "x": 38.0,
+      "y": 90.52300262451172,
+      "width": 57.74400329589844,
+      "height": 12.005996704101562
+    },
+    "font_size": 9.0,
+    "fonts": [
+      "Times-Roman"
+    ],
+    "bold": false,
+    "italic": false
+  },
+  "Customer ID": {
+    "avg_position": {
+      "x": 465.0,
+      "y": 142.5229949951172,
+      "width": 91.998046875,
+      "height": 12.006011962890625
+    },
+    "font_size": 9.0,
+    "fonts": [
+      "Times-Roman"
+    ],
+    "bold": false,
+    "italic": false
+  },
+  "IFSC Code": {
+    "avg_position": {
+      "x": 459.489990234375,
+      "y": 155.5229949951172,
+      "width": 97.5059814453125,
+      "height": 12.006011962890625
+    },
+    "font_size": 9.0,
+    "fonts": [
+      "Times-Roman"
+    ],
+    "bold": false,
+    "italic": false
+  },
+  "MICR Code": {
+    "avg_position": {
+      "x": 467.489990234375,
+      "y": 168.5229949951172,
+      "width": 89.5050048828125,
+      "height": 12.006011962890625
+    },
+    "font_size": 9.0,
+    "fonts": [
+      "Times-Roman"
+    ],
+    "bold": false,
+    "italic": false
+  },
+  "Nominee Registered": {
+    "avg_position": {
+      "x": 469.760009765625,
+      "y": 181.5229949951172,
+      "width": 87.2369384765625,
+      "height": 12.006011962890625
+    },
+    "font_size": 9.0,
+    "fonts": [
+      "Times-Roman"
+    ],
+    "bold": false,
+    "italic": false
+  },
+  "Registered Mobile No": {
+    "avg_position": {
+      "x": 38.0,
+      "y": 194.5229949951172,
+      "width": 141.7320098876953,
+      "height": 12.006011962890625
+    },
+    "font_size": 9.0,
+    "fonts": [
+      "Times-Roman"
+    ],
+    "bold": false,
+    "italic": false
+  },
+  "Registered Email ID": {
+    "avg_position": {
+      "x": 38.0,
+      "y": 207.5229949951172,
+      "width": 190.51202392578125,
+      "height": 12.006011962890625
+    },
+    "font_size": 9.0,
+    "fonts": [
+      "Times-Roman"
+    ],
+    "bold": false,
+    "italic": false
+  },
+  "PAN": {
+    "avg_position": {
+      "x": 306.9399948120117,
+      "y": 360.0230026245117,
+      "width": 124.50603485107422,
+      "height": 12.005996704101562
+    },
+    "font_size": 9.0,
+    "fonts": [
+      "Times-Roman"
+    ],
+    "bold": false,
+    "italic": false
+  },
+  "Scheme": {
+    "avg_position": {
+      "x": 38.0,
+      "y": 220.5229949951172,
+      "width": 177.75,
+      "height": 12.006011962890625
+    },
+    "font_size": 9.0,
+    "fonts": [
+      "Times-Roman"
+    ],
+    "bold": false,
+    "italic": false
+  },
+  "CKYC Number": {
+    "avg_position": {
+      "x": 403.510009765625,
+      "y": 220.5229949951172,
+      "width": 153.48577880859375,
+      "height": 12.006011962890625
+    },
+    "font_size": 9.0,
+    "fonts": [
+      "Times-Roman"
+    ],
+    "bold": false,
+    "italic": false
+  },
+  "State": {
+    "avg_position": {
+      "x": 126.50749937693278,
+      "y": 439.1510896682739,
+      "width": 163.59206104278564,
+      "height": 12.15965493520101
+    },
+    "font_size": 9.08,
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "bold": true,
+    "italic": false
+  },
+  "Address": {
+    "avg_position": {
+      "x": 38.0,
+      "y": 311.52301025390625,
+      "width": 512.2167358398438,
+      "height": 12.0059814453125
+    },
+    "font_size": 9.0,
+    "fonts": [
+      "Times-Roman"
+    ],
+    "bold": false,
+    "italic": false
+  }
+}

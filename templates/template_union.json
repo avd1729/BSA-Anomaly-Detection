@@ -1,0 +1,185 @@
+{
+  "Name": {
+    "avg_position": {
+      "x": 58.5,
+      "y": 120.87297821044922,
+      "width": 21.49200439453125,
+      "height": 12.006004333496094
+    },
+    "font_size": 9.0,
+    "fonts": [
+      "Times-Roman"
+    ],
+    "bold": false,
+    "italic": false
+  },
+  "Address": {
+    "avg_position": {
+      "x": 184.875,
+      "y": 195.8730010986328,
+      "width": 43.614009857177734,
+      "height": 12.006011962890625
+    },
+    "font_size": 9.0,
+    "fonts": [
+      "Times-Roman"
+    ],
+    "bold": false,
+    "italic": false
+  },
+  "City": {
+    "avg_position": {
+      "x": 171.5921052631579,
+      "y": 351.5372764185855,
+      "width": 123.70161518297698,
+      "height": 11.216130306846217
+    },
+    "font_size": 8.41,
+    "fonts": [
+      "Times-Roman"
+    ],
+    "bold": false,
+    "italic": false
+  },
+  "State": {
+    "avg_position": {
+      "x": 287.1998112895099,
+      "y": 523.412156458395,
+      "width": 102.31204156761625,
+      "height": 11.722301650332264
+    },
+    "font_size": 8.6,
+    "fonts": [
+      "Times-Bold",
+      "Times-Roman"
+    ],
+    "bold": true,
+    "italic": false
+  },
+  "Pincode": {
+    "avg_position": {
+      "x": 58.5,
+      "y": 236.63548278808594,
+      "width": 28.998008728027344,
+      "height": 12.00600814819336
+    },
+    "font_size": 9.0,
+    "fonts": [
+      "Times-Roman"
+    ],
+    "bold": false,
+    "italic": false
+  },
+  "Mobile No": {
+    "avg_position": {
+      "x": 58.5,
+      "y": 262.43553161621094,
+      "width": 39.249000549316406,
+      "height": 12.0059814453125
+    },
+    "font_size": 9.0,
+    "fonts": [
+      "Times-Roman"
+    ],
+    "bold": false,
+    "italic": false
+  },
+  "Email Id": {
+    "avg_position": {
+      "x": 58.5,
+      "y": 288.2355194091797,
+      "width": 31.248001098632812,
+      "height": 12.0059814453125
+    },
+    "font_size": 9.0,
+    "fonts": [
+      "Times-Roman"
+    ],
+    "bold": false,
+    "italic": false
+  },
+  "Home branch": {
+    "avg_position": {
+      "x": 58.5,
+      "y": 314.03551483154297,
+      "width": 48.735008239746094,
+      "height": 12.0059814453125
+    },
+    "font_size": 9.0,
+    "fonts": [
+      "Times-Roman"
+    ],
+    "bold": false,
+    "italic": false
+  },
+  "IFSC": {
+    "avg_position": {
+      "x": 58.5,
+      "y": 339.8355255126953,
+      "width": 19.00799560546875,
+      "height": 12.0059814453125
+    },
+    "font_size": 9.0,
+    "fonts": [
+      "Times-Roman"
+    ],
+    "bold": false,
+    "italic": false
+  },
+  "Customer/CIF ID": {
+    "avg_position": {
+      "x": 311.25,
+      "y": 122.37297821044922,
+      "width": 63.252044677734375,
+      "height": 12.006004333496094
+    },
+    "font_size": 9.0,
+    "fonts": [
+      "Times-Roman"
+    ],
+    "bold": false,
+    "italic": false
+  },
+  "Account Type": {
+    "avg_position": {
+      "x": 311.25,
+      "y": 151.1730194091797,
+      "width": 51.23699951171875,
+      "height": 12.006011962890625
+    },
+    "font_size": 9.0,
+    "fonts": [
+      "Times-Roman"
+    ],
+    "bold": false,
+    "italic": false
+  },
+  "Account Number": {
+    "avg_position": {
+      "x": 311.25,
+      "y": 179.97300720214844,
+      "width": 62.235015869140625,
+      "height": 12.006011962890625
+    },
+    "font_size": 9.0,
+    "fonts": [
+      "Times-Roman"
+    ],
+    "bold": false,
+    "italic": false
+  },
+  "Currency": {
+    "avg_position": {
+      "x": 311.25,
+      "y": 208.7729949951172,
+      "width": 33.489013671875,
+      "height": 12.006011962890625
+    },
+    "font_size": 9.0,
+    "fonts": [
+      "Times-Roman"
+    ],
+    "bold": false,
+    "italic": false
+  }
+}

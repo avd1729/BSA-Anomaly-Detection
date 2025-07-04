@@ -1,0 +1,156 @@
+{
+  "Account Holder Name": {
+    "avg_position": {
+      "x": 50.0,
+      "y": 143.45492553710938,
+      "width": 87.99298095703125,
+      "height": 9.0
+    },
+    "font_size": 9.0,
+    "fonts": [
+      "ArialMT"
+    ],
+    "bold": false,
+    "italic": false
+  },
+  "Account Type": {
+    "avg_position": {
+      "x": 50.0,
+      "y": 168.34163920084634,
+      "width": 55.02598571777344,
+      "height": 12.365997314453125
+    },
+    "font_size": 9.0,
+    "fonts": [
+      "Helvetica"
+    ],
+    "bold": false,
+    "italic": false
+  },
+  "Account Number": {
+    "avg_position": {
+      "x": 50.0,
+      "y": 189.34163920084634,
+      "width": 67.02298736572266,
+      "height": 12.365997314453125
+    },
+    "font_size": 9.0,
+    "fonts": [
+      "Helvetica"
+    ],
+    "bold": false,
+    "italic": false
+  },
+  "Customer's Address": {
+    "avg_position": {
+      "x": 50.0,
+      "y": 210.34163920084634,
+      "width": 80.73898315429688,
+      "height": 12.365997314453125
+    },
+    "font_size": 9.0,
+    "fonts": [
+      "Helvetica"
+    ],
+    "bold": false,
+    "italic": false
+  },
+  "Branch Name": {
+    "avg_position": {
+      "x": 50.0,
+      "y": 269.67498270670575,
+      "width": 55.016990661621094,
+      "height": 12.366002400716146
+    },
+    "font_size": 9.0,
+    "fonts": [
+      "Helvetica"
+    ],
+    "bold": false,
+    "italic": false
+  },
+  "IFSC": {
+    "avg_position": {
+      "x": 127.1875,
+      "y": 423.9443874359131,
+      "width": 87.64029216766357,
+      "height": 12.365985870361328
+    },
+    "font_size": 9.0,
+    "fonts": [
+      "Helvetica"
+    ],
+    "bold": false,
+    "italic": false
+  },
+  "Account Currency": {
+    "avg_position": {
+      "x": 50.0,
+      "y": 311.67498779296875,
+      "width": 71.52298736572266,
+      "height": 12.365997314453125
+    },
+    "font_size": 9.0,
+    "fonts": [
+      "Helvetica"
+    ],
+    "bold": false,
+    "italic": false
+  },
+  "Opening Balance": {
+    "avg_position": {
+      "x": 347.0,
+      "y": 147.6749725341797,
+      "width": 69.03897094726562,
+      "height": 12.365997314453125
+    },
+    "font_size": 9.0,
+    "fonts": [
+      "Helvetica"
+    ],
+    "bold": false,
+    "italic": false
+  },
+  "Total Credits": {
+    "avg_position": {
+      "x": 347.0,
+      "y": 183.6749725341797,
+      "width": 51.011993408203125,
+      "height": 12.365997314453125
+    },
+    "font_size": 9.0,
+    "fonts": [
+      "Helvetica"
+    ],
+    "bold": false,
+    "italic": false
+  },
+  "Total Debits": {
+    "avg_position": {
+      "x": 347.0,
+      "y": 219.6749725341797,
+      "width": 48.014984130859375,
+      "height": 12.365997314453125
+    },
+    "font_size": 9.0,
+    "fonts": [
+      "Helvetica"
+    ],
+    "bold": false,
+    "italic": false
+  },
+  "Ending Balance": {
+    "avg_position": {
+      "x": 198.5,
+      "y": 297.73158327738446,
+      "width": 67.4189682006836,
+      "height": 8.999999364217123
+    },
+    "font_size": 9.0,
+    "fonts": [
+      "ArialBold"
+    ],
+    "bold": true,
+    "italic": false
+  }
+}

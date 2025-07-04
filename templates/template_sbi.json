@@ -1,0 +1,200 @@
+{
+  "Drawing Power": {
+    "avg_position": {
+      "x": 31.82608695652174,
+      "y": 229.26978799571162,
+      "width": 96.2844649605129,
+      "height": 12.724430250084918
+    },
+    "font_size": 9.26,
+    "fonts": [
+      "Helvetica"
+    ],
+    "bold": false,
+    "italic": false
+  },
+  "IFS Code": {
+    "avg_position": {
+      "x": 64.17906858862901,
+      "y": 309.7920785299162,
+      "width": 80.94027598311261,
+      "height": 13.174242159215416
+    },
+    "font_size": 9.59,
+    "fonts": [
+      "Helvetica-Bold",
+      "Helvetica"
+    ],
+    "bold": true,
+    "italic": false
+  },
+  "Account Description": {
+    "avg_position": {
+      "x": 31.82608695652174,
+      "y": 193.66109234353772,
+      "width": 170.33086627462635,
+      "height": 12.724434230638588
+    },
+    "font_size": 9.26,
+    "fonts": [
+      "Helvetica"
+    ],
+    "bold": false,
+    "italic": false
+  },
+  "Account Name": {
+    "avg_position": {
+      "x": 68.46122921214385,
+      "y": 89.40529677447151,
+      "width": 80.93911025103401,
+      "height": 12.608474282657399
+    },
+    "font_size": 9.18,
+    "fonts": [
+      "Helvetica"
+    ],
+    "bold": false,
+    "italic": false
+  },
+  "Branch": {
+    "avg_position": {
+      "x": 65.21030402906013,
+      "y": 280.27334039861506,
+      "width": 97.54167290889856,
+      "height": 12.65744989568537
+    },
+    "font_size": 9.21,
+    "fonts": [
+      "Helvetica"
+    ],
+    "bold": false,
+    "italic": false
+  },
+  "Account Number": {
+    "avg_position": {
+      "x": 31.82608695652174,
+      "y": 175.85674451745075,
+      "width": 132.3859233026919,
+      "height": 12.724434230638588
+    },
+    "font_size": 9.26,
+    "fonts": [
+      "Helvetica"
+    ],
+    "bold": false,
+    "italic": false
+  },
+  "Date": {
+    "avg_position": {
+      "x": 56.49985108008752,
+      "y": 109.66341843564287,
+      "width": 49.72658778459598,
+      "height": 13.609000589093592
+    },
+    "font_size": 9.89,
+    "fonts": [
+      "Helvetica-Bold",
+      "Helvetica"
+    ],
+    "bold": true,
+    "italic": false
+  },
+  "Interest Rate(% p.a.)": {
+    "avg_position": {
+      "x": 31.82608695652174,
+      "y": 247.07413582179856,
+      "width": 105.05790047023608,
+      "height": 12.724430250084918
+    },
+    "font_size": 9.26,
+    "fonts": [
+      "Helvetica"
+    ],
+    "bold": false,
+    "italic": false
+  },
+  "Address": {
+    "avg_position": {
+      "x": 31.82608695652174,
+      "y": 105.09587495223336,
+      "width": 123.97316277545431,
+      "height": 12.72443787947945
+    },
+    "font_size": 9.26,
+    "fonts": [
+      "Helvetica"
+    ],
+    "bold": false,
+    "italic": false
+  },
+  "CIF No.": {
+    "avg_position": {
+      "x": 31.82608695652174,
+      "y": 274.85673655634344,
+      "width": 97.71714683201002,
+      "height": 12.724441528320312
+    },
+    "font_size": 9.26,
+    "fonts": [
+      "Helvetica"
+    ],
+    "bold": false,
+    "italic": false
+  },
+  "Nomination Registered": {
+    "avg_position": {
+      "x": 31.82608695652174,
+      "y": 355.4654434867527,
+      "width": 111.84651449452276,
+      "height": 12.724430250084918
+    },
+    "font_size": 9.26,
+    "fonts": [
+      "Helvetica"
+    ],
+    "bold": false,
+    "italic": false
+  },
+  "MICR Code": {
+    "avg_position": {
+      "x": 31.82608695652174,
+      "y": 323.37848696501356,
+      "width": 102.21689108143683,
+      "height": 12.724430250084918
+    },
+    "font_size": 9.26,
+    "fonts": [
+      "Helvetica"
+    ],
+    "bold": false,
+    "italic": false
+  },
+  "MOD Balance": {
+    "avg_position": {
+      "x": 36.0,
+      "y": 242.3249969482422,
+      "width": 104.58420517865349,
+      "height": 12.365997314453125
+    },
+    "font_size": 9.0,
+    "fonts": [
+      "Helvetica"
+    ],
+    "bold": false,
+    "italic": false
+  },
+  "CKYCR Number": {
+    "avg_position": {
+      "x": 36.0,
+      "y": 269.32501220703125,
+      "width": 154.93254228071734,
+      "height": 12.365997314453125
+    },
+    "font_size": 9.0,
+    "fonts": [
+      "Helvetica"
+    ],
+    "bold": false,
+    "italic": false
+  }
+}

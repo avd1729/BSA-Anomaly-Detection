@@ -1,0 +1,244 @@
+{
+  "CUSTOMER ID": {
+    "avg_position": {
+      "x": 20.0,
+      "y": 52.8370361328125,
+      "width": 70.00000762939453,
+      "height": 11.171875
+    },
+    "font_size": 10.0,
+    "fonts": [
+      "ArialMT"
+    ],
+    "bold": false,
+    "italic": false
+  },
+  "ACCOUNT NO": {
+    "avg_position": {
+      "x": 20.0,
+      "y": 67.8370361328125,
+      "width": 67.22000122070312,
+      "height": 11.171875
+    },
+    "font_size": 10.0,
+    "fonts": [
+      "ArialMT"
+    ],
+    "bold": false,
+    "italic": false
+  },
+  "STATEMENT PERIOD": {
+    "avg_position": {
+      "x": 20.0,
+      "y": 82.8370361328125,
+      "width": 101.68000030517578,
+      "height": 11.171875
+    },
+    "font_size": 10.0,
+    "fonts": [
+      "ArialMT"
+    ],
+    "bold": false,
+    "italic": false
+  },
+  "CUSTOMER NAME": {
+    "avg_position": {
+      "x": 20.0,
+      "y": 127.8370361328125,
+      "width": 89.44001007080078,
+      "height": 11.171875
+    },
+    "font_size": 10.0,
+    "fonts": [
+      "Arial-BoldMT"
+    ],
+    "bold": true,
+    "italic": false
+  },
+  "EMAIL ID": {
+    "avg_position": {
+      "x": 20.0,
+      "y": 247.8370361328125,
+      "width": 43.88999938964844,
+      "height": 11.171875
+    },
+    "font_size": 10.0,
+    "fonts": [
+      "Arial-BoldMT"
+    ],
+    "bold": true,
+    "italic": false
+  },
+  "PHONE NO": {
+    "avg_position": {
+      "x": 20.0,
+      "y": 267.8370361328125,
+      "width": 53.339996337890625,
+      "height": 11.171875
+    },
+    "font_size": 10.0,
+    "fonts": [
+      "Arial-BoldMT"
+    ],
+    "bold": true,
+    "italic": false
+  },
+  "CKYC ID": {
+    "avg_position": {
+      "x": 20.0,
+      "y": 287.8370361328125,
+      "width": 41.11000442504883,
+      "height": 11.171875
+    },
+    "font_size": 10.0,
+    "fonts": [
+      "Arial-BoldMT"
+    ],
+    "bold": true,
+    "italic": false
+  },
+  "NOMINATION": {
+    "avg_position": {
+      "x": 20.0,
+      "y": 307.8370361328125,
+      "width": 64.44000244140625,
+      "height": 11.171875
+    },
+    "font_size": 10.0,
+    "fonts": [
+      "Arial-BoldMT"
+    ],
+    "bold": true,
+    "italic": false
+  },
+  "NOMINEE NAME": {
+    "avg_position": {
+      "x": 20.0,
+      "y": 327.8370361328125,
+      "width": 78.89000701904297,
+      "height": 11.171875
+    },
+    "font_size": 10.0,
+    "fonts": [
+      "Arial-BoldMT"
+    ],
+    "bold": true,
+    "italic": false
+  },
+  "ACCOUNT BRANCH": {
+    "avg_position": {
+      "x": 368.0449981689453,
+      "y": 127.8370361328125,
+      "width": 122.78494262695312,
+      "height": 11.171875
+    },
+    "font_size": 10.0,
+    "fonts": [
+      "ArialMT",
+      "Arial-BoldMT"
+    ],
+    "bold": true,
+    "italic": false
+  },
+  "BRANCH ADDRESS": {
+    "avg_position": {
+      "x": 367.4950256347656,
+      "y": 147.8370361328125,
+      "width": 124.18505859375,
+      "height": 11.171875
+    },
+    "font_size": 10.0,
+    "fonts": [
+      "ArialMT",
+      "Arial-BoldMT"
+    ],
+    "bold": true,
+    "italic": false
+  },
+  "IFSC": {
+    "avg_position": {
+      "x": 185.0,
+      "y": 398.2423095703125,
+      "width": 20.501998901367188,
+      "height": 10.0546875
+    },
+    "font_size": 9.0,
+    "fonts": [
+      "ArialMT",
+      "Arial-BoldMT"
+    ],
+    "bold": true,
+    "italic": false
+  },
+  "MICR": {
+    "avg_position": {
+      "x": 185.0,
+      "y": 441.2423095703125,
+      "width": 22.9949951171875,
+      "height": 10.0546875
+    },
+    "font_size": 9.0,
+    "fonts": [
+      "ArialMT",
+      "Arial-BoldMT"
+    ],
+    "bold": true,
+    "italic": false
+  },
+  "ACCOUNT OPENING DATE": {
+    "avg_position": {
+      "x": 320.0,
+      "y": 267.8370361328125,
+      "width": 128.8900146484375,
+      "height": 11.171875
+    },
+    "font_size": 10.0,
+    "fonts": [
+      "Arial-BoldMT"
+    ],
+    "bold": true,
+    "italic": false
+  },
+  "ACCOUNT STATUS": {
+    "avg_position": {
+      "x": 320.0,
+      "y": 287.8370361328125,
+      "width": 92.76998901367188,
+      "height": 11.171875
+    },
+    "font_size": 10.0,
+    "fonts": [
+      "Arial-BoldMT"
+    ],
+    "bold": true,
+    "italic": false
+  },
+  "ACCOUNT TYPE": {
+    "avg_position": {
+      "x": 320.0,
+      "y": 307.8370361328125,
+      "width": 78.8900146484375,
+      "height": 11.171875
+    },
+    "font_size": 10.0,
+    "fonts": [
+      "Arial-BoldMT"
+    ],
+    "bold": true,
+    "italic": false
+  },
+  "CURRENCY": {
+    "avg_position": {
+      "x": 320.0,
+      "y": 337.8370361328125,
+      "width": 56.6600341796875,
+      "height": 11.171875
+    },
+    "font_size": 10.0,
+    "fonts": [
+      "Arial-BoldMT"
+    ],
+    "bold": true,
+    "italic": false
+  }
+}

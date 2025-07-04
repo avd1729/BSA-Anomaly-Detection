@@ -1,0 +1,337 @@
+{
+  "Name": {
+    "avg_position": {
+      "x": 167.02491037050882,
+      "y": 87.71372286478679,
+      "width": 34.482731421788536,
+      "height": 9.895242055257162
+    },
+    "font_size": 8.32,
+    "fonts": [
+      "AlbanyAMT,Regular",
+      "NimbusSans-Regular",
+      "Times-Roman"
+    ],
+    "bold": false,
+    "italic": false
+  },
+  "Communication Address": {
+    "avg_position": {
+      "x": 21.98825152715047,
+      "y": 106.80539894104004,
+      "width": 85.96557029088338,
+      "height": 9.895241419474283
+    },
+    "font_size": 8.32,
+    "fonts": [
+      "AlbanyAMT,Regular",
+      "NimbusSans-Regular",
+      "Times-Roman"
+    ],
+    "bold": false,
+    "italic": false
+  },
+  "Address Last Updated On": {
+    "avg_position": {
+      "x": 21.98825152715047,
+      "y": 132.97018814086914,
+      "width": 89.82134167353313,
+      "height": 9.895244598388672
+    },
+    "font_size": 8.32,
+    "fonts": [
+      "AlbanyAMT,Regular",
+      "NimbusSans-Regular",
+      "Times-Roman"
+    ],
+    "bold": false,
+    "italic": false
+  },
+  "Regd. Mobile Number": {
+    "avg_position": {
+      "x": 21.98825152715047,
+      "y": 151.32527542114258,
+      "width": 76.86955499649048,
+      "height": 9.895248413085938
+    },
+    "font_size": 8.32,
+    "fonts": [
+      "AlbanyAMT,Regular",
+      "NimbusSans-Regular",
+      "Times-Roman"
+    ],
+    "bold": false,
+    "italic": false
+  },
+  "Email ID": {
+    "avg_position": {
+      "x": 21.98825152715047,
+      "y": 169.68031565348306,
+      "width": 30.565773487091064,
+      "height": 9.895248413085938
+    },
+    "font_size": 8.32,
+    "fonts": [
+      "AlbanyAMT,Regular",
+      "NimbusSans-Regular",
+      "Times-Roman"
+    ],
+    "bold": false,
+    "italic": false
+  },
+  "Type of Account": {
+    "avg_position": {
+      "x": 21.98825152715047,
+      "y": 188.03536987304688,
+      "width": 57.42933448155721,
+      "height": 9.895248413085938
+    },
+    "font_size": 8.32,
+    "fonts": [
+      "AlbanyAMT,Regular",
+      "NimbusSans-Regular",
+      "Times-Roman"
+    ],
+    "bold": false,
+    "italic": false
+  },
+  "Scheme": {
+    "avg_position": {
+      "x": 21.98825152715047,
+      "y": 206.39045079549155,
+      "width": 28.424815972646076,
+      "height": 9.895248413085938
+    },
+    "font_size": 8.32,
+    "fonts": [
+      "AlbanyAMT,Regular",
+      "NimbusSans-Regular",
+      "Times-Roman"
+    ],
+    "bold": false,
+    "italic": false
+  },
+  "IFSC": {
+    "avg_position": {
+      "x": 21.98825152715047,
+      "y": 224.74549611409506,
+      "width": 18.136518319447834,
+      "height": 9.895250956217447
+    },
+    "font_size": 8.32,
+    "fonts": [
+      "AlbanyAMT,Regular",
+      "NimbusSans-Regular",
+      "Times-Roman"
+    ],
+    "bold": false,
+    "italic": false
+  },
+  "MICR Code": {
+    "avg_position": {
+      "x": 21.98825152715047,
+      "y": 243.10055287679037,
+      "width": 41.70936600367228,
+      "height": 9.895250956217447
+    },
+    "font_size": 8.32,
+    "fonts": [
+      "AlbanyAMT,Regular",
+      "NimbusSans-Regular",
+      "Times-Roman"
+    ],
+    "bold": false,
+    "italic": false
+  },
+  "SWIFT Code": {
+    "avg_position": {
+      "x": 21.98825152715047,
+      "y": 261.45562744140625,
+      "width": 45.86453866958618,
+      "height": 9.895248413085938
+    },
+    "font_size": 8.32,
+    "fonts": [
+      "AlbanyAMT,Regular",
+      "NimbusSans-Regular",
+      "Times-Roman"
+    ],
+    "bold": false,
+    "italic": false
+  },
+  "Effective Available Balance": {
+    "avg_position": {
+      "x": 19.256503740946453,
+      "y": 304.8183339436849,
+      "width": 84.87522029876709,
+      "height": 9.534454345703125
+    },
+    "font_size": 7.45,
+    "fonts": [
+      "NimbusSans-Regular",
+      "Times-Roman"
+    ],
+    "bold": false,
+    "italic": false
+  },
+  "Branch sol ID": {
+    "avg_position": {
+      "x": 312.0615692138672,
+      "y": 106.06881332397461,
+      "width": 48.43614959716797,
+      "height": 9.895242055257162
+    },
+    "font_size": 8.32,
+    "fonts": [
+      "AlbanyAMT,Regular",
+      "NimbusSans-Regular",
+      "Times-Roman"
+    ],
+    "bold": false,
+    "italic": false
+  },
+  "Account Number": {
+    "avg_position": {
+      "x": 312.0615692138672,
+      "y": 130.0238469441732,
+      "width": 59.020118713378906,
+      "height": 9.895244598388672
+    },
+    "font_size": 8.32,
+    "fonts": [
+      "AlbanyAMT,Regular",
+      "NimbusSans-Regular",
+      "Times-Roman"
+    ],
+    "bold": false,
+    "italic": false
+  },
+  "Customer ID": {
+    "avg_position": {
+      "x": 312.0615692138672,
+      "y": 148.37893422444662,
+      "width": 44.378395080566406,
+      "height": 9.895248413085938
+    },
+    "font_size": 8.32,
+    "fonts": [
+      "AlbanyAMT,Regular",
+      "NimbusSans-Regular",
+      "Times-Roman"
+    ],
+    "bold": false,
+    "italic": false
+  },
+  "Account Open Date": {
+    "avg_position": {
+      "x": 312.0615692138672,
+      "y": 166.73397318522134,
+      "width": 68.42977905273438,
+      "height": 9.895248413085938
+    },
+    "font_size": 8.32,
+    "fonts": [
+      "AlbanyAMT,Regular",
+      "NimbusSans-Regular",
+      "Times-Roman"
+    ],
+    "bold": false,
+    "italic": false
+  },
+  "Account Status": {
+    "avg_position": {
+      "x": 312.0615692138672,
+      "y": 185.08902867635092,
+      "width": 52.679481506347656,
+      "height": 9.895248413085938
+    },
+    "font_size": 8.32,
+    "fonts": [
+      "AlbanyAMT,Regular",
+      "NimbusSans-Regular",
+      "Times-Roman"
+    ],
+    "bold": false,
+    "italic": false
+  },
+  "Mode of Operation": {
+    "avg_position": {
+      "x": 312.0615692138672,
+      "y": 203.44410959879556,
+      "width": 65.13817850748698,
+      "height": 9.895248413085938
+    },
+    "font_size": 8.32,
+    "fonts": [
+      "AlbanyAMT,Regular",
+      "NimbusSans-Regular",
+      "Times-Roman"
+    ],
+    "bold": false,
+    "italic": false
+  },
+  "Joint Holders": {
+    "avg_position": {
+      "x": 312.0615692138672,
+      "y": 221.79915364583334,
+      "width": 46.02584330240885,
+      "height": 9.895252227783203
+    },
+    "font_size": 8.32,
+    "fonts": [
+      "AlbanyAMT,Regular",
+      "NimbusSans-Regular",
+      "Times-Roman"
+    ],
+    "bold": false,
+    "italic": false
+  },
+  "Nomination": {
+    "avg_position": {
+      "x": 312.0615692138672,
+      "y": 257.19422149658203,
+      "width": 40.30651346842448,
+      "height": 9.895250956217447
+    },
+    "font_size": 8.32,
+    "fonts": [
+      "AlbanyAMT,Regular",
+      "NimbusSans-Regular",
+      "Times-Roman"
+    ],
+    "bold": false,
+    "italic": false
+  },
+  "Currency": {
+    "avg_position": {
+      "x": 312.0615692138672,
+      "y": 275.54926681518555,
+      "width": 32.10962168375651,
+      "height": 9.895247141520182
+    },
+    "font_size": 8.32,
+    "fonts": [
+      "AlbanyAMT,Regular",
+      "NimbusSans-Regular",
+      "Times-Roman"
+    ],
+    "bold": false,
+    "italic": false
+  },
+  "Date of Issue": {
+    "avg_position": {
+      "x": 312.0615692138672,
+      "y": 293.90435282389325,
+      "width": 45.92362976074219,
+      "height": 9.895248413085938
+    },
+    "font_size": 8.32,
+    "fonts": [
+      "AlbanyAMT,Regular",
+      "NimbusSans-Regular",
+      "Times-Roman"
+    ],
+    "bold": false,
+    "italic": false
+  }
+}
