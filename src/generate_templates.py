@@ -4,39 +4,24 @@ import json
 import re
 import statistics
 
+# ========== Configuration ==========
 MARGIN = 15  # Pixels around median for bounding box
 
+# ========== Utility Functions ==========
+
 def load_field_list(field_txt_path):
+    """Load field list from text file."""
     with open(field_txt_path, "r", encoding="utf-8") as f:
         return [line.strip() for line in f if line.strip()]
 
 def normalize_font(font):
+    """Normalize font name for comparison."""
     return font.lower().replace("-", "").replace("mt", "").strip()
 
-def extract_value_spans(line, keyword):
-    spans = line["spans"]
-    matched = []
-    keyword_norm = re.sub(r'[^a-zA-Z0-9]', '', keyword).lower()
-
-    full_line_text = " ".join([s["text"] for s in spans])
-    full_line_norm = re.sub(r'[^a-zA-Z0-9]', '', full_line_text).lower()
-
-    if keyword_norm not in full_line_norm:
-        return []
-
-    # Try to get the span(s) that follow the keyword
-    found_keyword = False
-    for span in spans:
-        span_text = re.sub(r'[^a-zA-Z0-9]', '', span["text"]).lower()
-        if not found_keyword and keyword_norm in span_text:
-            found_keyword = True
-            continue
-        if found_keyword:
-            matched.append(span)
-
-    return matched if matched else spans  # fallback: use all spans
+# ========== Field Extraction ==========
 
 def find_field_occurrences(pdf, field_keywords):
+    """Find all occurrences of field keywords in PDF."""
     field_metadata = {}
 
     for page_num in range(len(pdf)):
@@ -72,8 +57,10 @@ def find_field_occurrences(pdf, field_keywords):
                                 break
     return field_metadata
 
+# ========== Template Building ==========
 
 def build_position_range_metadata(field_meta):
+    """Build template with position ranges from field metadata."""
     template = {}
 
     for field, spans in field_meta.items():
@@ -116,9 +103,15 @@ def build_position_range_metadata(field_meta):
 
     return template
 
+# ========== Template Processing ==========
+
 def process_bank_folder(bank_folder_path, fields_txt_path, output_template_path):
+    """Process all PDFs in a bank folder to generate template."""
     field_list = load_field_list(fields_txt_path)
     all_metadata = {}
+
+    print(f"🏦 Processing bank folder: {os.path.basename(bank_folder_path)}")
+    print(f"📋 Loading fields from: {fields_txt_path}")
 
     for filename in os.listdir(bank_folder_path):
         if filename.lower().endswith(".pdf"):
@@ -128,30 +121,78 @@ def process_bank_folder(bank_folder_path, fields_txt_path, output_template_path)
             try:
                 pdf = fitz.open(pdf_path)
                 pdf_meta = find_field_occurrences(pdf, field_list)
-                for k, v in pdf_meta.items():
-                    all_metadata.setdefault(k, []).extend(v)
+                
+                # Accumulate metadata from all PDFs
+                for field, occurrences in pdf_meta.items():
+                    all_metadata.setdefault(field, []).extend(occurrences)
+                    
+                pdf.close()
             except Exception as e:
                 print(f"[!] Error reading {pdf_path}: {e}")
 
+    if not all_metadata:
+        print(f"[!] No field metadata found for {bank_folder_path}")
+        return
+
+    # Build template from accumulated metadata
     final_template = build_position_range_metadata(all_metadata)
 
+    # Save template
+    os.makedirs(os.path.dirname(output_template_path), exist_ok=True)
     with open(output_template_path, "w", encoding="utf-8") as f:
         json.dump(final_template, f, indent=2)
+    
     print(f"✅ Template saved: {output_template_path}")
+    print(f"📊 Template contains {len(final_template)} fields")
 
+def generate_all_templates(root_bank_dir="banks", field_def_dir="fields", output_dir="templates"):
+    """Generate templates for all banks."""
+    print(f"🚀 Starting template generation...")
+    print(f"📂 Bank folders: {root_bank_dir}")
+    print(f"📝 Field definitions: {field_def_dir}")
+    print(f"💾 Output directory: {output_dir}")
+    
+    os.makedirs(output_dir, exist_ok=True)
 
-root_bank_dir = "banks"
-field_def_dir = "fields"
-output_dir = "templates"
-os.makedirs(output_dir, exist_ok=True)
+    processed_count = 0
+    for bank_folder in os.listdir(root_bank_dir):
+        bank_path = os.path.join(root_bank_dir, bank_folder)
+        field_file = os.path.join(field_def_dir, f"{bank_folder}.txt")
+        output_template = os.path.join(output_dir, f"template_{bank_folder}.json")
 
-for bank_folder in os.listdir(root_bank_dir):
-    bank_path = os.path.join(root_bank_dir, bank_folder)
-    field_file = os.path.join(field_def_dir, f"{bank_folder}.txt")
-    output_template = os.path.join(output_dir, f"template_{bank_folder}.json")
+        if not os.path.isdir(bank_path):
+            print(f"[!] Skipping {bank_folder}: Not a directory")
+            continue
+            
+        if not os.path.isfile(field_file):
+            print(f"[!] Skipping {bank_folder}: Field file not found ({field_file})")
+            continue
 
-    if not os.path.isdir(bank_path) or not os.path.isfile(field_file):
-        print(f"[!] Skipping {bank_folder}: Missing folder or field file")
-        continue
+        print(f"\n{'='*50}")
+        process_bank_folder(bank_path, field_file, output_template)
+        processed_count += 1
 
-    process_bank_folder(bank_path, field_file, output_template)
+    print(f"\n🎉 Template generation complete!")
+    print(f"📊 Processed {processed_count} banks")
+
+# ========== Main Execution ==========
+
+def main():
+    
+    # 1. Generate templates for all banks
+    # generate_all_templates()
+    
+    # 2. Generate template for a specific bank
+    # process_bank_folder("banks/sbi", "fields/sbi.txt", "templates/template_sbi.json")
+    
+    # 3. Custom configuration
+    # generate_all_templates(
+    #     root_bank_dir="my_banks",
+    #     field_def_dir="my_fields", 
+    #     output_dir="my_templates"
+    # )
+    
+    pass
+
+if __name__ == "__main__":
+    main()
